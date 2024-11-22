@@ -1,0 +1,44 @@
+﻿@model EbookListViewModel
+
+<form id="LibrarySearchForm" asp-action="ListAjax" asp-controller="Library" asp-area="" autocomplete="off"
+      data-ajax="true"
+      data-ajax-method="GET"
+      data-ajax-loading="#loadingOverlay"
+      data-ajax-failure="OnFailure(xhr)"
+      data-ajax-success="">
+
+    <input id="pageNumber" type="hidden" asp-for="PageNumber" />
+    <input id="pageCount" type="hidden" asp-for="PageCount" />
+    <input id="selectedCategoryId" type="hidden" asp-for="LibraryCategoryId" />
+    <input type="hidden" asp-for="SelectedOrderByItem" />
+
+    <div class="col-md-12 me-2">
+        <div class="input-group raunded raunden-3">
+            <span class="input-group-btn border border-2 radius6 ms-1">
+                <a onclick="SearechBookTitle()" autocomplete="off" data-loading-text="Request" class="btn btn-labeled btn-sm bg-teal lib-btn-white search border-teal mt-1">
+                    <b><i class="fa fa-search"></i></b> Search
+                </a>
+            </span>
+            <input asp-for="Title" class="form-control tahoma radius6 me-1" placeholder="File Name" />
+            <select id="selectedTake" name="Take" class="user-select-auto takeSelected bg-gray-light">
+                @foreach (var option in @Model.TakeListItem)
+                {
+                    <option value="@option.Value" >@option.Text</option>
+                }
+            </select>
+        </div>
+    </div>
+
+</form>
+@* <a class="btn btn-success" onclick="Up(PageNumber =@Model.PageNumber,Take =@Model.Take,SelectedOrderByItem =@Model.SelectedOrderByItem,SelectedSortByItem =@Model.SelectedSortByItem,LibraryCategoryId =@Model.LibraryCategoryId,Titel=@Model.Title)"></a>
+ *@
+@* <script>
+    $(document).ready(function () {
+        $('#selectedTake').change(function () {
+            // Set the value of the hidden input to the selected value
+            $('input[name="Take"]').val($(this).val());
+            // Submit the form
+            $('#LibrarySearchForm').submit();
+        });
+    });
+</script> *@

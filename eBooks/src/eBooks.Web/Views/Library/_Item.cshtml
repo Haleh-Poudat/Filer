@@ -1,0 +1,43 @@
+﻿@model EbookViewModel
+<tr id="Library-@Model.Id" class="showItem text-center">
+    <td class="rowNo mr-3"></td>
+    <td>@Model.CreatedOn.ToPersianDateString()</td>
+    <td>@Model.Title</td>
+    <td>
+        <ul class="icons-list list-unstyled d-flex">
+            <li class="mr-2 mt-2">
+                <a id="downloadBtn" href="uploads/@Model.Name" target="_blank">
+                    <h6 class="text-primary"><i class="fa fa-download me-1" aria-hidden="true"></i></h6>
+                </a>
+            </li>
+            @if (IsAdmin())
+            {
+                <li class="mr-2">
+                    <a class="btn"
+                       data-toggle="tooltip"
+                       data-placement="left"
+                       title="Edit Category"
+                       id="btnEditCategory"
+                       data-ajax="true"
+                       data-ajax-url="@Url.Action("Edit", "Library", new { id = Model.Id })"
+                       data-ajax-method="GET"
+                       data-ajax-failure="OnFailure(xhr)"
+                       data-ajax-success="ShowModalOnSuccess(xhr,status,data,'modal-xl','editLibraryCategoryForm')">
+                        <i class="fa fa-edit fa-lg text-success"></i>
+                    </a>
+                </li>
+                <li>
+                    <a class="btn" href="#"
+                       title="Delete Category"
+                       id="btnDeleteCategory"
+                       data-ajax="true"
+                       data-ajax-method="POST"
+                       data-ajax-begin="confirmDeleteOrReactivate('@Model.Id','Are you sure of deleteing @Model.Title file?','/Library/Delete','حذف','Library-@Model.Id')"
+                       data-ajax-failure="OnFailure(xhr)">
+                        <i class="fa fa-trash fa-lg text-danger"></i>
+                    </a>
+                </li>
+            }
+        </ul>
+    </td>
+</tr>

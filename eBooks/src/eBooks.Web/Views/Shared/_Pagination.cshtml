@@ -1,0 +1,55 @@
+﻿
+
+<div class="container mb-2" id="showPagination">
+    @if (Model.PageCount > 1)
+    {
+        <div id="uppage" class="row p-3 rounded">
+            <div class="col-10">
+                <nav aria-label="Page navigation">
+                    <ul class="pagination justify-content-center mb-0">
+                        <li class="page-item">
+                            <a class="page-link @((Model.PageNumber == 1) ? "disable-a" : "")" href="#" onclick="update(pageNumber=1)" aria-label="First">
+                                <span aria-hidden="true">←</span>
+                            </a>
+                        </li>
+                        <li class="page-item">
+                            <a class="page-link @((Model.PageNumber == 1) ? "disable-a" : "")" href="#" onclick="update(pageNumber=@Model.PageNumber-1)" aria-label="Previous">
+                                <span aria-hidden="true">&laquo;</span>
+                            </a>
+                        </li>
+                        @for (int i = (Model.PageNumber - 3 > 0) ? Model.PageNumber - 3 : 1;
+                       (Model.PageNumber + 3 > Model.PageCount) ? i <= Model.PageCount : i <= Model.PageNumber + 3; i++)
+                        {
+                            <li class="page-item @((Model.PageNumber == @i) ? "active" : "")">
+                                <a id="CurentPage" class="page-link" href="#" onclick="update(pageNumber=@i)">
+                                    @i
+                                </a>
+                            </li>
+                        }
+                        <li class="page-item">
+                            <a class="page-link @((Model.PageNumber == Model.PageCount) ? "disable-a" : "")" href="#" onclick="update(pageNumber=@Model.PageNumber+1)" aria-label="Next">
+                                <span aria-hidden="true">&raquo;</span>
+                            </a>
+                        </li>
+                        <li class="page-item">
+                            <a class="page-link @((Model.PageNumber == Model.PageCount) ? "disable-a" : "")" href="#" onclick="update(pageNumber=@Model.PageCount)" aria-label="Last">
+                                <span aria-hidden="true">→</span>
+                            </a>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+            <div class="col-2 text-center d-flex align-items-center justify-content-center">
+                <label class="text-white m-0">Page @Model.PageNumber Of @Model.PageCount</label>
+            </div>
+        </div>
+    }
+    else
+    {
+        <div class="row bg-secondary p-3 rounded">
+            <label class="text-white text-center">Page 1 Of 1</label>
+        </div>
+    }
+</div>
+
+

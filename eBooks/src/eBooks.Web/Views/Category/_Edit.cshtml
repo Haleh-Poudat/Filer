@@ -1,0 +1,61 @@
+﻿@model EditLibraryCategoryViewModel
+
+<section class="portfolio-area pb-70">
+    <div class="container">
+        <div class="section-title mb-4">
+            <h5 class="modal-title">Edit category </h5>
+        </div>
+        <form id="editLibraryCategoryForm" asp-action="Edit" asp-controller="Category" asp-area="" autocomplete="off"
+              data-ajax="true"
+              data-ajax-method="POST"
+              data-ajax-failure="AddOrEditLibraryOnFailure(xhr)"
+              data-ajax-success="EditNodeOnSuccess(xhr,status,data,'','@Model.Id')">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="portfolio-details-information">
+                            <div class="contact-form-inner">
+                                <div class="row">
+                                    <div class="modal-body">
+                                        <div class="modal-body">
+                                            <div class="modal-body">
+                                                <div asp-validation-summary="ModelOnly" class="form-group text-center text-danger col-12"></div>
+                                                <div id="ErrorOnFailure" class="form-group text-center text-danger col-12"></div>
+                                                <input type="hidden" asp-for="Id" />
+                                                <div class="row">
+                                                    <div class="col-md-12">
+                                                        <div class="form-group">
+                                                            <label class="control-label" asp-for="Title">Title</label>
+                                                            <input type="text" id="Title" asp-for="Title" class="form-control" value="@Model.Title" />
+                                                            <span asp-validation-for="Title" class="validation-error-label text-danger"></span>
+                                                        </div>
+
+                                                        <div class="form-group">
+                                                            <label class="control-label" asp-for="Description">Description</label>
+                                                            <textarea id="Description" asp-for="Description" class="form-control" rows="3">@Model.Description</textarea>
+                                                            <span asp-validation-for="Description" class="validation-error-label text-danger"></span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="modal-footer">
+                                                <button type="submit" id="editLibraryCategoryFormButton" autocomplete="off" data-loading-text="Submitting information" class="btn btn-success btn-labeled">
+                                                    <b><i class="fa fa-check-square-o"></i></b> Edit
+                                                </button>
+                                                <a class="btn btn-default btn-primary btn-md" data-bs-dismiss="modal" aria-hidden="true">
+                                                    <b><i class="fa fa-arrow-right"></i></b> Cancel
+                                                </a>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</section>
+

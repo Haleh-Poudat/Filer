@@ -1,0 +1,15 @@
+﻿@model List<eBooks.ViewModel.TreeNodeViewModel>
+@{
+    ViewData["Title"] = "Privacy Policy";
+}
+
+<h2> Privacy Policy </h2>
+
+<div class="container">
+    <h2>Bootstrap Treeview Example</h2>
+    <div id="tree">
+      
+    </div>
+</div>
+
+<pre id="mine">@Html.Raw(Newtonsoft.Json.JsonConvert.SerializeObject(Model, Newtonsoft.Json.Formatting.Indented))</pre>

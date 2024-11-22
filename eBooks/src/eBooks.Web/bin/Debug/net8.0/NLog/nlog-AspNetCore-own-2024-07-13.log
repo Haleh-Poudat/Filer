@@ -1,0 +1,252 @@
+2024-07-13 08:31:42.1687|                     0|                     ERROR|                     eBooks.Web.Program|                     Stopped program because of exception Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\Program.cs:line 24|                     url: |                     action: 
+2024-07-13 08:32:25.9016|                     0|                     ERROR|                     eBooks.Web.Program|                     Stopped program because of exception Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\Program.cs:line 24|                     url: |                     action: 
+2024-07-13 08:35:19.4111|                     20102|                     ERROR|                     Microsoft.EntityFrameworkCore.Database.Command|                     Failed executing DbCommand (352ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE TABLE [Roles] (
+    [Id] uniqueidentifier NOT NULL DEFAULT (NEWSEQUENTIALID()),
+    [IsConstantData] bit NOT NULL,
+    [Description] nvarchar(max) NOT NULL,
+    [CreateDateTime] datetime2 NOT NULL,
+    [Name] nvarchar(256) NOT NULL,
+    [NormalizedName] nvarchar(256) NULL,
+    [ConcurrencyStamp] nvarchar(max) NULL,
+    CONSTRAINT [PK_Roles] PRIMARY KEY ([Id])
+); |                     url: |                     action: 
+2024-07-13 08:35:19.8591|                     0|                     ERROR|                     eBooks.Web.Program|                     Stopped program because of exception Microsoft.Data.SqlClient.SqlException (0x80131904): There is already an object named 'Roles' in the database.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlCommand.InternalEndExecuteNonQuery(IAsyncResult asyncResult, Boolean isInternal, String endMethod)
+   at Microsoft.Data.SqlClient.SqlCommand.EndExecuteNonQueryInternal(IAsyncResult asyncResult)
+   at Microsoft.Data.SqlClient.SqlCommand.EndExecuteNonQueryAsync(IAsyncResult asyncResult)
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<InternalExecuteNonQueryAsync>b__210_1(IAsyncResult result)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteNonQueryAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteNonQueryAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteNonQueryAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Migrations.Internal.MigrationCommandExecutor.ExecuteNonQueryAsync(IEnumerable`1 migrationCommands, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Migrations.Internal.MigrationCommandExecutor.ExecuteNonQueryAsync(IEnumerable`1 migrationCommands, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Migrations.Internal.MigrationCommandExecutor.ExecuteNonQueryAsync(IEnumerable`1 migrationCommands, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Migrations.Internal.MigrationCommandExecutor.ExecuteNonQueryAsync(IEnumerable`1 migrationCommands, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Migrations.Internal.Migrator.MigrateAsync(String targetMigration, CancellationToken cancellationToken)
+   at Program.<Main>$(String[] args) in C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\Program.cs:line 60
+ClientConnectionId:67804342-cc76-4c84-bc47-1d43b9bba325
+Error Number:2714,State:6,Class:16|                     url: |                     action: 
+2024-07-13 08:38:57.3510|                     0|                     ERROR|                     eBooks.Web.Program|                     Stopped program because of exception Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\Program.cs:line 24|                     url: |                     action: 
+2024-07-13 08:39:18.7407|                     0|                     ERROR|                     eBooks.Web.Program|                     Stopped program because of exception Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\Program.cs:line 24|                     url: |                     action: 
+2024-07-13 08:40:36.0527|                     0|                     ERROR|                     eBooks.Web.Program|                     Stopped program because of exception Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\Program.cs:line 24|                     url: |                     action: 
+2024-07-13 08:40:47.2608|                     0|                     ERROR|                     eBooks.Web.Program|                     Stopped program because of exception Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\Program.cs:line 24|                     url: |                     action: 
+2024-07-13 08:41:33.5057|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Application started. Press Ctrl+C to shut down. |                     url: |                     action: 
+2024-07-13 08:41:33.5605|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Hosting environment: Development |                     url: |                     action: 
+2024-07-13 08:41:33.5782|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Content root path: C:\Users\Hp\Desktop\eBooks\src\eBooks.Web |                     url: |                     action: 
+2024-07-13 08:59:19.7805|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Application started. Press Ctrl+C to shut down. |                     url: |                     action: 
+2024-07-13 08:59:19.8451|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Hosting environment: Development |                     url: |                     action: 
+2024-07-13 08:59:19.8451|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Content root path: C:\Users\Hp\Desktop\eBooks\src\eBooks.Web |                     url: |                     action: 
+2024-07-13 09:14:45.9082|                     0|                     ERROR|                     eBooks.Web.Program|                     Stopped program because of exception Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\Program.cs:line 24|                     url: |                     action: 
+2024-07-13 09:15:03.7261|                     0|                     ERROR|                     eBooks.Web.Program|                     Stopped program because of exception Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\Program.cs:line 24|                     url: |                     action: 
+2024-07-13 09:15:53.9940|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Application started. Press Ctrl+C to shut down. |                     url: |                     action: 
+2024-07-13 09:15:54.0317|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Hosting environment: Development |                     url: |                     action: 
+2024-07-13 09:15:54.0317|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Content root path: C:\Users\Hp\Desktop\eBooks\src\eBooks.Web |                     url: |                     action: 
+2024-07-13 09:41:41.1433|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Application started. Press Ctrl+C to shut down. |                     url: |                     action: 
+2024-07-13 09:41:41.1988|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Hosting environment: Development |                     url: |                     action: 
+2024-07-13 09:41:41.1988|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Content root path: C:\Users\Hp\Desktop\eBooks\src\eBooks.Web |                     url: |                     action: 
+2024-07-13 09:54:43.5778|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Application started. Press Ctrl+C to shut down. |                     url: |                     action: 
+2024-07-13 09:54:43.6690|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Hosting environment: Development |                     url: |                     action: 
+2024-07-13 09:54:43.6690|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Content root path: C:\Users\Hp\Desktop\eBooks\src\eBooks.Web |                     url: |                     action: 
+2024-07-13 09:55:12.4769|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Application started. Press Ctrl+C to shut down. |                     url: |                     action: 
+2024-07-13 09:55:12.5311|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Hosting environment: Development |                     url: |                     action: 
+2024-07-13 09:55:12.5446|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Content root path: C:\Users\Hp\Desktop\eBooks\src\eBooks.Web |                     url: |                     action: 
+2024-07-13 10:18:21.8052|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Application started. Press Ctrl+C to shut down. |                     url: |                     action: 
+2024-07-13 10:18:21.8431|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Hosting environment: Development |                     url: |                     action: 
+2024-07-13 10:18:21.8431|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Content root path: C:\Users\Hp\Desktop\eBooks\src\eBooks.Web |                     url: |                     action: 
+2024-07-13 10:30:53.8006|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Application started. Press Ctrl+C to shut down. |                     url: |                     action: 
+2024-07-13 10:30:53.8657|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Hosting environment: Development |                     url: |                     action: 
+2024-07-13 10:30:53.8735|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Content root path: C:\Users\Hp\Desktop\eBooks\src\eBooks.Web |                     url: |                     action: 
+2024-07-13 10:33:33.1323|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Application started. Press Ctrl+C to shut down. |                     url: |                     action: 
+2024-07-13 10:33:33.1757|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Hosting environment: Development |                     url: |                     action: 
+2024-07-13 10:33:33.2002|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Content root path: C:\Users\Hp\Desktop\eBooks\src\eBooks.Web |                     url: |                     action: 
+2024-07-13 10:52:07.3346|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Application started. Press Ctrl+C to shut down. |                     url: |                     action: 
+2024-07-13 10:52:07.3850|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Hosting environment: Development |                     url: |                     action: 
+2024-07-13 10:52:07.4020|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Content root path: C:\Users\Hp\Desktop\eBooks\src\eBooks.Web |                     url: |                     action: 
+2024-07-13 12:07:12.9331|                     0|                     ERROR|                     eBooks.Web.Program|                     Stopped program because of exception System.InvalidOperationException: Failed to convert configuration value at 'IdentityOptionsModel:DefaultLockoutTimeSpan' to type 'System.TimeSpan'.
+ ---> System.FormatException: TimeSpan.FromMinutes(6) is not a valid value for TimeSpan.
+ ---> System.FormatException: String 'TimeSpan.FromMinutes(6)' was not recognized as a valid TimeSpan.
+   at System.Globalization.TimeSpanParse.TimeSpanResult.SetBadTimeSpanFailure()
+   at System.Globalization.TimeSpanParse.ProcessTerminal_D(TimeSpanRawInfo& raw, TimeSpanStandardStyles style, TimeSpanResult& result)
+   at System.Globalization.TimeSpanParse.ProcessTerminalState(TimeSpanRawInfo& raw, TimeSpanStandardStyles style, TimeSpanResult& result)
+   at System.Globalization.TimeSpanParse.TryParseTimeSpan(ReadOnlySpan`1 input, TimeSpanStandardStyles style, IFormatProvider formatProvider, TimeSpanResult& result)
+   at System.TimeSpan.Parse(String input, IFormatProvider formatProvider)
+   at System.ComponentModel.TimeSpanConverter.ConvertFrom(ITypeDescriptorContext context, CultureInfo culture, Object value)
+   --- End of inner exception stack trace ---
+   at System.ComponentModel.TimeSpanConverter.ConvertFrom(ITypeDescriptorContext context, CultureInfo culture, Object value)
+   at Microsoft.Extensions.Configuration.ConfigurationBinder.TryConvertValue(Type type, String value, String path, Object& result, Exception& error)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.Configuration.ConfigurationBinder.BindInstance(Type type, BindingPoint bindingPoint, IConfiguration config, BinderOptions options, Boolean isParentCollection)
+   at Microsoft.Extensions.Configuration.ConfigurationBinder.BindProperty(PropertyInfo property, Object instance, IConfiguration config, BinderOptions options)
+   at Microsoft.Extensions.Configuration.ConfigurationBinder.BindProperties(Object instance, IConfiguration configuration, BinderOptions options)
+   at Microsoft.Extensions.Configuration.ConfigurationBinder.BindInstance(Type type, BindingPoint bindingPoint, IConfiguration config, BinderOptions options, Boolean isParentCollection)
+   at Microsoft.Extensions.Configuration.ConfigurationBinder.BindProperty(PropertyInfo property, Object instance, IConfiguration config, BinderOptions options)
+   at Microsoft.Extensions.Configuration.ConfigurationBinder.BindProperties(Object instance, IConfiguration configuration, BinderOptions options)
+   at Microsoft.Extensions.Configuration.ConfigurationBinder.BindInstance(Type type, BindingPoint bindingPoint, IConfiguration config, BinderOptions options, Boolean isParentCollection)
+   at Microsoft.Extensions.Configuration.ConfigurationBinder.Get(IConfiguration configuration, Type type, Action`1 configureOptions)
+   at Microsoft.Extensions.Configuration.ConfigurationBinder.Get[T](IConfiguration configuration, Action`1 configureOptions)
+   at eBooks.IocConfig.AddCustomServicesExtensions.GetSiteSettings(IConfiguration configuration) in C:\Users\Hp\Desktop\eBooks\src\eBooks.IocConfig\AddCustomServicesExtensions.cs:line 27
+   at eBooks.IocConfig.AddCustomServicesExtensions.AddCustomServices(IServiceCollection services, IConfiguration configuration) in C:\Users\Hp\Desktop\eBooks\src\eBooks.IocConfig\AddCustomServicesExtensions.cs:line 14
+   at Program.<Main>$(String[] args) in C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\Program.cs:line 20|                     url: |                     action: 
+2024-07-13 12:31:34.0678|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Application started. Press Ctrl+C to shut down. |                     url: |                     action: 
+2024-07-13 12:31:34.0852|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Hosting environment: Development |                     url: |                     action: 
+2024-07-13 12:31:34.0908|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Content root path: C:\Users\Hp\Desktop\eBooks\src\eBooks.Web |                     url: |                     action: 
+2024-07-13 12:31:35.9382|                     0|                     ERROR|                     eBooks.Web.Middlewares.ExceptionLoggingMiddleware|                     خطای ناشناخته System.TypeLoadException: Could not load type 'Invalid_Token.0x020000CC' from assembly 'eBooks.ViewModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+   at System.Signature.GetSignature(Void* pCorSig, Int32 cCorSig, RuntimeFieldHandleInternal fieldHandle, IRuntimeMethodInfo methodHandle, RuntimeType declaringType)
+   at System.Reflection.RuntimeMethodInfo.<get_Signature>g__LazyCreateSignature|25_0()
+   at System.Reflection.RuntimeMethodInfo.GetParameters()
+   at Microsoft.Extensions.Configuration.ConfigurationBinder.BindProperty(PropertyInfo property, Object instance, IConfiguration config, BinderOptions options)
+   at Microsoft.Extensions.Configuration.ConfigurationBinder.BindProperties(Object instance, IConfiguration configuration, BinderOptions options)
+   at Microsoft.Extensions.Configuration.ConfigurationBinder.BindInstance(Type type, BindingPoint bindingPoint, IConfiguration config, BinderOptions options, Boolean isParentCollection)
+   at Microsoft.Extensions.Configuration.ConfigurationBinder.BindProperty(PropertyInfo property, Object instance, IConfiguration config, BinderOptions options)
+   at Microsoft.Extensions.Configuration.ConfigurationBinder.BindProperties(Object instance, IConfiguration configuration, BinderOptions options)
+   at Microsoft.Extensions.Configuration.ConfigurationBinder.BindInstance(Type type, BindingPoint bindingPoint, IConfiguration config, BinderOptions options, Boolean isParentCollection)
+   at Microsoft.Extensions.Configuration.ConfigurationBinder.Bind(IConfiguration configuration, Object instance, Action`1 configureOptions)
+   at Program.<>c__DisplayClass0_0.<<Main>$>b__0(SiteSettings options) in C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\Program.cs:line 19
+   at Microsoft.Extensions.Options.OptionsFactory`1.Create(String name)
+   at System.Lazy`1.ViaFactory(LazyThreadSafetyMode mode)
+   at System.Lazy`1.ExecutionAndPublication(LazyHelper executionAndPublication, Boolean useDefaultConstructor)
+   at System.Lazy`1.CreateValue()
+   at Microsoft.Extensions.Options.OptionsCache`1.GetOrAdd[TArg](String name, Func`3 createOptions, TArg factoryArgument)
+   at Microsoft.Extensions.Options.OptionsMonitor`1.Get(String name)
+   at eBooks.Web.Controllers.LibraryController..ctor(ILibraryCategoryService libraryCategoryService, IEbookService ebookService, IWebHostEnvironment hostingEnvironment, ICompositeViewEngine viewEngine, IOptionsMonitor`1 siteSettings) in C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\Controllers\LibraryController.cs:line 45
+   at lambda_method26(Closure, IServiceProvider, Object[])
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass6_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at eBooks.Web.Middlewares.ExceptionLoggingMiddleware.Invoke(HttpContext context) in C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\Middlewares\ExceptionLoggingMiddleware.cs:line 23|                     url: https://localhost/|                     action: Index
+2024-07-13 12:31:36.4023|                     1|                     ERROR|                     Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|                     An unhandled exception has occurred while executing the request. System.TypeLoadException: Could not load type 'Invalid_Token.0x020000CC' from assembly 'eBooks.ViewModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+   at System.Signature.GetSignature(Void* pCorSig, Int32 cCorSig, RuntimeFieldHandleInternal fieldHandle, IRuntimeMethodInfo methodHandle, RuntimeType declaringType)
+   at System.Reflection.RuntimeMethodInfo.<get_Signature>g__LazyCreateSignature|25_0()
+   at System.Reflection.RuntimeMethodInfo.GetParameters()
+   at Microsoft.Extensions.Configuration.ConfigurationBinder.BindProperty(PropertyInfo property, Object instance, IConfiguration config, BinderOptions options)
+   at Microsoft.Extensions.Configuration.ConfigurationBinder.BindProperties(Object instance, IConfiguration configuration, BinderOptions options)
+   at Microsoft.Extensions.Configuration.ConfigurationBinder.BindInstance(Type type, BindingPoint bindingPoint, IConfiguration config, BinderOptions options, Boolean isParentCollection)
+   at Microsoft.Extensions.Configuration.ConfigurationBinder.BindProperty(PropertyInfo property, Object instance, IConfiguration config, BinderOptions options)
+   at Microsoft.Extensions.Configuration.ConfigurationBinder.BindProperties(Object instance, IConfiguration configuration, BinderOptions options)
+   at Microsoft.Extensions.Configuration.ConfigurationBinder.BindInstance(Type type, BindingPoint bindingPoint, IConfiguration config, BinderOptions options, Boolean isParentCollection)
+   at Microsoft.Extensions.Configuration.ConfigurationBinder.Bind(IConfiguration configuration, Object instance, Action`1 configureOptions)
+   at Program.<>c__DisplayClass0_0.<<Main>$>b__0(SiteSettings options) in C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\Program.cs:line 19
+   at Microsoft.Extensions.Options.OptionsFactory`1.Create(String name)
+   at System.Lazy`1.ViaFactory(LazyThreadSafetyMode mode)
+   at System.Lazy`1.ExecutionAndPublication(LazyHelper executionAndPublication, Boolean useDefaultConstructor)
+   at System.Lazy`1.CreateValue()
+   at Microsoft.Extensions.Options.OptionsCache`1.GetOrAdd[TArg](String name, Func`3 createOptions, TArg factoryArgument)
+   at Microsoft.Extensions.Options.OptionsMonitor`1.Get(String name)
+   at eBooks.Web.Controllers.LibraryController..ctor(ILibraryCategoryService libraryCategoryService, IEbookService ebookService, IWebHostEnvironment hostingEnvironment, ICompositeViewEngine viewEngine, IOptionsMonitor`1 siteSettings) in C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\Controllers\LibraryController.cs:line 45
+   at lambda_method26(Closure, IServiceProvider, Object[])
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass6_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at eBooks.Web.Middlewares.ExceptionLoggingMiddleware.Invoke(HttpContext context) in C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\Middlewares\ExceptionLoggingMiddleware.cs:line 23
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)|                     url: https://localhost/|                     action: Index
+2024-07-13 12:32:15.1346|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Application started. Press Ctrl+C to shut down. |                     url: |                     action: 
+2024-07-13 12:32:15.1573|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Hosting environment: Development |                     url: |                     action: 
+2024-07-13 12:32:15.1573|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Content root path: C:\Users\Hp\Desktop\eBooks\src\eBooks.Web |                     url: |                     action: 
+2024-07-13 13:42:27.3239|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Application started. Press Ctrl+C to shut down. |                     url: |                     action: 
+2024-07-13 13:42:27.3579|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Hosting environment: Development |                     url: |                     action: 
+2024-07-13 13:42:27.3579|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Content root path: C:\Users\Hp\Desktop\eBooks\src\eBooks.Web |                     url: |                     action: 
+2024-07-13 14:10:15.4995|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Application started. Press Ctrl+C to shut down. |                     url: |                     action: 
+2024-07-13 14:10:15.5353|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Hosting environment: Development |                     url: |                     action: 
+2024-07-13 14:10:15.5523|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Content root path: C:\Users\Hp\Desktop\eBooks\src\eBooks.Web |                     url: |                     action: 
+2024-07-13 20:59:32.4991|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Application started. Press Ctrl+C to shut down. |                     url: |                     action: 
+2024-07-13 20:59:32.5805|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Hosting environment: Development |                     url: |                     action: 
+2024-07-13 20:59:32.5887|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Content root path: C:\Users\Hp\Desktop\eBooks\src\eBooks.Web |                     url: |                     action: 
+2024-07-13 21:31:30.5645|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Application started. Press Ctrl+C to shut down. |                     url: |                     action: 
+2024-07-13 21:31:30.6191|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Hosting environment: Development |                     url: |                     action: 
+2024-07-13 21:31:30.6270|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Content root path: C:\Users\Hp\Desktop\eBooks\src\eBooks.Web |                     url: |                     action: 
+2024-07-13 21:36:07.1458|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Application started. Press Ctrl+C to shut down. |                     url: |                     action: 
+2024-07-13 21:36:07.2027|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Hosting environment: Development |                     url: |                     action: 
+2024-07-13 21:36:07.2027|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Content root path: C:\Users\Hp\Desktop\eBooks\src\eBooks.Web |                     url: |                     action: 
+2024-07-13 22:23:53.0098|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Application started. Press Ctrl+C to shut down. |                     url: |                     action: 
+2024-07-13 22:23:53.0764|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Hosting environment: Development |                     url: |                     action: 
+2024-07-13 22:23:53.0764|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Content root path: C:\Users\Hp\Desktop\eBooks\src\eBooks.Web |                     url: |                     action: 
+2024-07-13 22:25:53.7516|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Application started. Press Ctrl+C to shut down. |                     url: |                     action: 
+2024-07-13 22:25:53.8087|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Hosting environment: Development |                     url: |                     action: 
+2024-07-13 22:25:53.8087|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Content root path: C:\Users\Hp\Desktop\eBooks\src\eBooks.Web |                     url: |                     action: 
+2024-07-13 22:35:48.4930|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Application started. Press Ctrl+C to shut down. |                     url: |                     action: 
+2024-07-13 22:35:48.5349|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Hosting environment: Development |                     url: |                     action: 
+2024-07-13 22:35:48.5430|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Content root path: C:\Users\Hp\Desktop\eBooks\src\eBooks.Web |                     url: |                     action: 
+2024-07-13 22:36:49.6351|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Application started. Press Ctrl+C to shut down. |                     url: |                     action: 
+2024-07-13 22:36:49.6747|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Hosting environment: Development |                     url: |                     action: 
+2024-07-13 22:36:49.6747|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Content root path: C:\Users\Hp\Desktop\eBooks\src\eBooks.Web |                     url: |                     action: 

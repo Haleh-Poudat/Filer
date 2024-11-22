@@ -1,0 +1,52 @@
+﻿<nav class="navbar navbar-expand-lg  navbar-light filer-Blue">
+    <div class="container-fluid">
+        <a class="ms-5 me-5" href="/">
+            <img src="~/images/Filer.png" alt="" style="height: 50px;" />
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarText">
+            <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                @if (IsAuthenticated())
+                {
+                    <li class="nav-item active">
+                        <a href="@Url.Action("Index", "Library",new {area=""})" class="nav-link active"><h6>Archive</h6></a>
+                    </li>
+                    @if (IsAdmin())
+                    {
+                        <li class="nav-item">
+                            <a href="@Url.Action("Index", "User", new { area = "Admin" })" class="nav-link"><h6>User management</h6></a>
+                        </li>
+                    }
+                }
+            </ul>
+            <span class="navbar-text">
+            </span>
+        </div>
+        <div>
+            <li class="nav-item dropdown ms-5" style="list-style-type: none;">
+                <ul class="navbar-nav">
+                    @if (IsAuthenticated())
+                    {
+                        <li class="nav-item mt-2">
+                            <a class="nav-link text-white" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                @FullName() <span class="ms-2 text-white">Welcome</span>
+                            </a>
+                        </li>
+
+                        <li class="nav-item mt-2">
+                            <a id="logOutBtn" href="@Url.Action("LogOut", "Account", new { area = "" })" class="nav-link text-white"> Logout </a>
+                        </li>
+                    }
+                    else
+                    {
+                        <li class="nav-item mt-2">
+                            <a href="@Url.Action("LogIn", "Account", new { area = "" })" class="nav-link text-white">Login</a>
+                        </li>
+                    }
+                </ul>
+            </li>
+        </div>
+    </div>
+</nav>

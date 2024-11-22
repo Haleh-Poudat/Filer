@@ -1,0 +1,517 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\eBooks.Web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\eBooks.Web.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\dist\\jstree.js",
+      "PackagePath": "staticwebassets\\dist\\jstree.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\dist\\jstree.min.js",
+      "PackagePath": "staticwebassets\\dist\\jstree.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\dist\\themes\\default-dark\\32px.png",
+      "PackagePath": "staticwebassets\\dist\\themes\\default-dark\\32px.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\dist\\themes\\default-dark\\40px.png",
+      "PackagePath": "staticwebassets\\dist\\themes\\default-dark\\40px.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\dist\\themes\\default-dark\\style.css",
+      "PackagePath": "staticwebassets\\dist\\themes\\default-dark\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\dist\\themes\\default-dark\\style.min.css",
+      "PackagePath": "staticwebassets\\dist\\themes\\default-dark\\style.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\dist\\themes\\default-dark\\throbber.gif",
+      "PackagePath": "staticwebassets\\dist\\themes\\default-dark\\throbber.gif"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\dist\\themes\\default\\32px.png",
+      "PackagePath": "staticwebassets\\dist\\themes\\default\\32px.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\dist\\themes\\default\\40px.png",
+      "PackagePath": "staticwebassets\\dist\\themes\\default\\40px.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\dist\\themes\\default\\style.css",
+      "PackagePath": "staticwebassets\\dist\\themes\\default\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\dist\\themes\\default\\style.min.css",
+      "PackagePath": "staticwebassets\\dist\\themes\\default\\style.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\dist\\themes\\default\\throbber.gif",
+      "PackagePath": "staticwebassets\\dist\\themes\\default\\throbber.gif"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\fonts\\Flaticon-1.eot",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon-1.eot"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\fonts\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\fonts\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\fonts\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\fonts\\Flaticon.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\fonts\\IRANSans(FaNum).ttf",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans(FaNum).ttf"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\fonts\\IRANSans(FaNum)_Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans(FaNum)_Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\fonts\\IRANSans(FaNum)_Light.ttf",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans(FaNum)_Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\fonts\\IRANSans(FaNum)_Medium.ttf",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans(FaNum)_Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\fonts\\IRANSans(FaNum)_UltraLight.ttf",
+      "PackagePath": "staticwebassets\\fonts\\IRANSans(FaNum)_UltraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\fonts\\boxicons.eot",
+      "PackagePath": "staticwebassets\\fonts\\boxicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\fonts\\boxicons.svg",
+      "PackagePath": "staticwebassets\\fonts\\boxicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\fonts\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\boxicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\fonts\\boxicons.woff",
+      "PackagePath": "staticwebassets\\fonts\\boxicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\fonts\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\fonts\\boxicons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\images\\EBook.png",
+      "PackagePath": "staticwebassets\\images\\EBook.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\images\\Filer.png",
+      "PackagePath": "staticwebassets\\images\\Filer.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\images\\accessDenied .jpg",
+      "PackagePath": "staticwebassets\\images\\accessDenied .jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\images\\book.PNG",
+      "PackagePath": "staticwebassets\\images\\book.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\images\\book.jpg",
+      "PackagePath": "staticwebassets\\images\\book.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\images\\default\\default-shape1.png",
+      "PackagePath": "staticwebassets\\images\\default\\default-shape1.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\images\\default\\default-shape2.png",
+      "PackagePath": "staticwebassets\\images\\default\\default-shape2.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\images\\default\\default-shape3.png",
+      "PackagePath": "staticwebassets\\images\\default\\default-shape3.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\images\\default\\default-shape4.png",
+      "PackagePath": "staticwebassets\\images\\default\\default-shape4.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\images\\eBooks.png",
+      "PackagePath": "staticwebassets\\images\\eBooks.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\images\\login-form.png",
+      "PackagePath": "staticwebassets\\images\\login-form.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\images\\notError.jpg",
+      "PackagePath": "staticwebassets\\images\\notError.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\images\\site\\404-error.png",
+      "PackagePath": "staticwebassets\\images\\site\\404-error.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\images\\site\\Books.jpg",
+      "PackagePath": "staticwebassets\\images\\site\\Books.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\images\\site\\ChangePhoneNumber-form.jpg",
+      "PackagePath": "staticwebassets\\images\\site\\ChangePhoneNumber-form.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\images\\site\\file_not_found.jpg",
+      "PackagePath": "staticwebassets\\images\\site\\file_not_found.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\images\\site\\login-form.png",
+      "PackagePath": "staticwebassets\\images\\site\\login-form.png"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\images\\study.gif",
+      "PackagePath": "staticwebassets\\images\\study.gif"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\js\\customAlert.js",
+      "PackagePath": "staticwebassets\\js\\customAlert.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.unobtrusive-ajax.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.unobtrusive-ajax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\sweetAlert\\animate.min.css",
+      "PackagePath": "staticwebassets\\sweetAlert\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\sweetAlert\\sweetalert2.css",
+      "PackagePath": "staticwebassets\\sweetAlert\\sweetalert2.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\sweetAlert\\sweetalert2.js",
+      "PackagePath": "staticwebassets\\sweetAlert\\sweetalert2.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\sweetAlert\\sweetalert2.min.css",
+      "PackagePath": "staticwebassets\\sweetAlert\\sweetalert2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\sweetAlert\\sweetalert2.min.js",
+      "PackagePath": "staticwebassets\\sweetAlert\\sweetalert2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Hp\\Desktop\\eBooks\\src\\eBooks.Web\\wwwroot\\uploads\\673aa4e0-aa7b-46e7-a056-928075cccac2.pdf",
+      "PackagePath": "staticwebassets\\uploads\\673aa4e0-aa7b-46e7-a056-928075cccac2.pdf"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.eBooks.Web.props",
+      "PackagePath": "build\\eBooks.Web.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.eBooks.Web.props",
+      "PackagePath": "buildMultiTargeting\\eBooks.Web.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.eBooks.Web.props",
+      "PackagePath": "buildTransitive\\eBooks.Web.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.eBooks.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

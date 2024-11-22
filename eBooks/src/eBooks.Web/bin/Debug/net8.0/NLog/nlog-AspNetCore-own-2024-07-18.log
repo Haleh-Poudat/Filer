@@ -1,0 +1,555 @@
+2024-07-18 07:28:24.6697|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Application started. Press Ctrl+C to shut down. |                     url: |                     action: 
+2024-07-18 07:28:24.7099|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Hosting environment: Development |                     url: |                     action: 
+2024-07-18 07:28:24.7250|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Content root path: C:\Users\Hp\Desktop\eBooks\src\eBooks.Web |                     url: |                     action: 
+2024-07-18 07:31:57.4788|                     0|                     ERROR|                     eBooks.Web.Middlewares.ExceptionLoggingMiddleware|                     خطای ناشناخته System.InvalidOperationException: Multiple constructors accepting all given argument types have been found in type 'eBooks.Web.Areas.Admin.Controllers.UserController'. There should only be one applicable constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.TryFindMatchingConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& parameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.FindApplicableConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& matchingParameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactoryInternal(Type instanceType, Type[] argumentTypes, ParameterExpression& provider, ParameterExpression& argumentArray, Expression& factoryExpressionBody)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactory(Type instanceType, Type[] argumentTypes)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.CreateActivator(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.CreateControllerFactory(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerCache.GetCachedResult(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Routing.ControllerRequestDelegateFactory.<>c__DisplayClass12_0.<CreateRequestDelegate>b__0(HttpContext context)
+   at eBooks.Web.Middlewares.ExceptionLoggingMiddleware.Invoke(HttpContext context)|                     url: https://localhost/Admin/User|                     action: Index
+2024-07-18 07:31:57.9256|                     1|                     ERROR|                     Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|                     An unhandled exception has occurred while executing the request. System.InvalidOperationException: Multiple constructors accepting all given argument types have been found in type 'eBooks.Web.Areas.Admin.Controllers.UserController'. There should only be one applicable constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.TryFindMatchingConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& parameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.FindApplicableConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& matchingParameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactoryInternal(Type instanceType, Type[] argumentTypes, ParameterExpression& provider, ParameterExpression& argumentArray, Expression& factoryExpressionBody)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactory(Type instanceType, Type[] argumentTypes)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.CreateActivator(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.CreateControllerFactory(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerCache.GetCachedResult(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Routing.ControllerRequestDelegateFactory.<>c__DisplayClass12_0.<CreateRequestDelegate>b__0(HttpContext context)
+   at eBooks.Web.Middlewares.ExceptionLoggingMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)|                     url: https://localhost/Admin/User|                     action: Index
+2024-07-18 07:32:39.3495|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Application started. Press Ctrl+C to shut down. |                     url: |                     action: 
+2024-07-18 07:32:39.3952|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Hosting environment: Development |                     url: |                     action: 
+2024-07-18 07:32:39.3952|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Content root path: C:\Users\Hp\Desktop\eBooks\src\eBooks.Web |                     url: |                     action: 
+2024-07-18 07:40:48.3757|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Application started. Press Ctrl+C to shut down. |                     url: |                     action: 
+2024-07-18 07:40:48.4184|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Hosting environment: Development |                     url: |                     action: 
+2024-07-18 07:40:48.4184|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Content root path: C:\Users\Hp\Desktop\eBooks\src\eBooks.Web |                     url: |                     action: 
+2024-07-18 07:47:43.0788|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Application started. Press Ctrl+C to shut down. |                     url: |                     action: 
+2024-07-18 07:47:43.1401|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Hosting environment: Development |                     url: |                     action: 
+2024-07-18 07:47:43.1401|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Content root path: C:\Users\Hp\Desktop\eBooks\src\eBooks.Web |                     url: |                     action: 
+2024-07-18 07:57:07.1390|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Application started. Press Ctrl+C to shut down. |                     url: |                     action: 
+2024-07-18 07:57:07.1629|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Hosting environment: Development |                     url: |                     action: 
+2024-07-18 07:57:07.1669|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Content root path: C:\Users\Hp\Desktop\eBooks\src\eBooks.Web |                     url: |                     action: 
+2024-07-18 11:27:30.8035|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Application started. Press Ctrl+C to shut down. |                     url: |                     action: 
+2024-07-18 11:27:30.8659|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Hosting environment: Development |                     url: |                     action: 
+2024-07-18 11:27:30.8710|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Content root path: C:\Users\Hp\Desktop\eBooks\src\eBooks.Web |                     url: |                     action: 
+2024-07-18 12:36:11.2607|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Application started. Press Ctrl+C to shut down. |                     url: |                     action: 
+2024-07-18 12:36:11.2782|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Hosting environment: Development |                     url: |                     action: 
+2024-07-18 12:36:11.2782|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Content root path: C:\Users\Hp\Desktop\eBooks\src\eBooks.Web |                     url: |                     action: 
+2024-07-18 12:45:01.4193|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Application started. Press Ctrl+C to shut down. |                     url: |                     action: 
+2024-07-18 12:45:01.4407|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Hosting environment: Development |                     url: |                     action: 
+2024-07-18 12:45:01.4517|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Content root path: C:\Users\Hp\Desktop\eBooks\src\eBooks.Web |                     url: |                     action: 
+2024-07-18 13:03:39.4465|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Application started. Press Ctrl+C to shut down. |                     url: |                     action: 
+2024-07-18 13:03:39.4611|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Hosting environment: Development |                     url: |                     action: 
+2024-07-18 13:03:39.4611|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Content root path: C:\Users\Hp\Desktop\eBooks\src\eBooks.Web |                     url: |                     action: 
+2024-07-18 13:42:46.8729|                     0|                     ERROR|                     eBooks.Web.Middlewares.ExceptionLoggingMiddleware|                     خطای ناشناخته System.TypeLoadException: Could not load type '<>f__AnonymousType1`2' from assembly 'eBooks.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+   at System.Signature.GetSignature(Void* pCorSig, Int32 cCorSig, RuntimeFieldHandleInternal fieldHandle, IRuntimeMethodInfo methodHandle, RuntimeType declaringType)
+   at System.Reflection.RuntimeConstructorInfo.<get_Signature>g__LazyCreateSignature|21_0()
+   at System.Reflection.RuntimeConstructorInfo.GetParameters()
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.TryFindMatchingConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& parameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.FindApplicableConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& matchingParameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactoryInternal(Type instanceType, Type[] argumentTypes, ParameterExpression& provider, ParameterExpression& argumentArray, Expression& factoryExpressionBody)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactory(Type instanceType, Type[] argumentTypes)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.CreateActivator(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.CreateControllerFactory(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerCache.GetCachedResult(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Routing.ControllerRequestDelegateFactory.<>c__DisplayClass12_0.<CreateRequestDelegate>b__0(HttpContext context)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at eBooks.Web.Middlewares.ExceptionLoggingMiddleware.Invoke(HttpContext context)|                     url: https://localhost/Account/ChangePassword|                     action: ChangePassword
+2024-07-18 13:42:47.1648|                     1|                     ERROR|                     Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|                     An unhandled exception has occurred while executing the request. System.TypeLoadException: Could not load type '<>f__AnonymousType1`2' from assembly 'eBooks.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+   at System.Signature.GetSignature(Void* pCorSig, Int32 cCorSig, RuntimeFieldHandleInternal fieldHandle, IRuntimeMethodInfo methodHandle, RuntimeType declaringType)
+   at System.Reflection.RuntimeConstructorInfo.<get_Signature>g__LazyCreateSignature|21_0()
+   at System.Reflection.RuntimeConstructorInfo.GetParameters()
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.TryFindMatchingConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& parameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.FindApplicableConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& matchingParameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactoryInternal(Type instanceType, Type[] argumentTypes, ParameterExpression& provider, ParameterExpression& argumentArray, Expression& factoryExpressionBody)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactory(Type instanceType, Type[] argumentTypes)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.CreateActivator(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.CreateControllerFactory(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerCache.GetCachedResult(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Routing.ControllerRequestDelegateFactory.<>c__DisplayClass12_0.<CreateRequestDelegate>b__0(HttpContext context)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at eBooks.Web.Middlewares.ExceptionLoggingMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)|                     url: https://localhost/Account/ChangePassword|                     action: ChangePassword
+2024-07-18 13:42:51.8005|                     0|                     ERROR|                     eBooks.Web.Middlewares.ExceptionLoggingMiddleware|                     خطای ناشناخته System.TypeLoadException: Could not load type '<>f__AnonymousType1`2' from assembly 'eBooks.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+   at System.Signature.GetSignature(Void* pCorSig, Int32 cCorSig, RuntimeFieldHandleInternal fieldHandle, IRuntimeMethodInfo methodHandle, RuntimeType declaringType)
+   at System.Reflection.RuntimeConstructorInfo.<get_Signature>g__LazyCreateSignature|21_0()
+   at System.Reflection.RuntimeConstructorInfo.GetParameters()
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.TryFindMatchingConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& parameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.FindApplicableConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& matchingParameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactoryInternal(Type instanceType, Type[] argumentTypes, ParameterExpression& provider, ParameterExpression& argumentArray, Expression& factoryExpressionBody)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactory(Type instanceType, Type[] argumentTypes)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.CreateActivator(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.CreateControllerFactory(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerCache.GetCachedResult(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Routing.ControllerRequestDelegateFactory.<>c__DisplayClass12_0.<CreateRequestDelegate>b__0(HttpContext context)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at eBooks.Web.Middlewares.ExceptionLoggingMiddleware.Invoke(HttpContext context)|                     url: https://localhost/Account/ChangePassword|                     action: ChangePassword
+2024-07-18 13:42:51.9357|                     1|                     ERROR|                     Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|                     An unhandled exception has occurred while executing the request. System.TypeLoadException: Could not load type '<>f__AnonymousType1`2' from assembly 'eBooks.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+   at System.Signature.GetSignature(Void* pCorSig, Int32 cCorSig, RuntimeFieldHandleInternal fieldHandle, IRuntimeMethodInfo methodHandle, RuntimeType declaringType)
+   at System.Reflection.RuntimeConstructorInfo.<get_Signature>g__LazyCreateSignature|21_0()
+   at System.Reflection.RuntimeConstructorInfo.GetParameters()
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.TryFindMatchingConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& parameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.FindApplicableConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& matchingParameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactoryInternal(Type instanceType, Type[] argumentTypes, ParameterExpression& provider, ParameterExpression& argumentArray, Expression& factoryExpressionBody)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactory(Type instanceType, Type[] argumentTypes)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.CreateActivator(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.CreateControllerFactory(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerCache.GetCachedResult(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Routing.ControllerRequestDelegateFactory.<>c__DisplayClass12_0.<CreateRequestDelegate>b__0(HttpContext context)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at eBooks.Web.Middlewares.ExceptionLoggingMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)|                     url: https://localhost/Account/ChangePassword|                     action: ChangePassword
+2024-07-18 13:43:27.3396|                     0|                     ERROR|                     eBooks.Web.Middlewares.ExceptionLoggingMiddleware|                     خطای ناشناخته System.TypeLoadException: Could not load type '<>f__AnonymousType1`2' from assembly 'eBooks.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+   at System.Signature.GetSignature(Void* pCorSig, Int32 cCorSig, RuntimeFieldHandleInternal fieldHandle, IRuntimeMethodInfo methodHandle, RuntimeType declaringType)
+   at System.Reflection.RuntimeConstructorInfo.<get_Signature>g__LazyCreateSignature|21_0()
+   at System.Reflection.RuntimeConstructorInfo.GetParameters()
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.TryFindMatchingConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& parameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.FindApplicableConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& matchingParameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactoryInternal(Type instanceType, Type[] argumentTypes, ParameterExpression& provider, ParameterExpression& argumentArray, Expression& factoryExpressionBody)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactory(Type instanceType, Type[] argumentTypes)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.CreateActivator(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.CreateControllerFactory(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerCache.GetCachedResult(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Routing.ControllerRequestDelegateFactory.<>c__DisplayClass12_0.<CreateRequestDelegate>b__0(HttpContext context)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at eBooks.Web.Middlewares.ExceptionLoggingMiddleware.Invoke(HttpContext context)|                     url: https://localhost/LogOut|                     action: LogOut
+2024-07-18 13:43:27.6296|                     1|                     ERROR|                     Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|                     An unhandled exception has occurred while executing the request. System.TypeLoadException: Could not load type '<>f__AnonymousType1`2' from assembly 'eBooks.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+   at System.Signature.GetSignature(Void* pCorSig, Int32 cCorSig, RuntimeFieldHandleInternal fieldHandle, IRuntimeMethodInfo methodHandle, RuntimeType declaringType)
+   at System.Reflection.RuntimeConstructorInfo.<get_Signature>g__LazyCreateSignature|21_0()
+   at System.Reflection.RuntimeConstructorInfo.GetParameters()
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.TryFindMatchingConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& parameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.FindApplicableConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& matchingParameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactoryInternal(Type instanceType, Type[] argumentTypes, ParameterExpression& provider, ParameterExpression& argumentArray, Expression& factoryExpressionBody)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactory(Type instanceType, Type[] argumentTypes)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.CreateActivator(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.CreateControllerFactory(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerCache.GetCachedResult(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Routing.ControllerRequestDelegateFactory.<>c__DisplayClass12_0.<CreateRequestDelegate>b__0(HttpContext context)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at eBooks.Web.Middlewares.ExceptionLoggingMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)|                     url: https://localhost/LogOut|                     action: LogOut
+2024-07-18 13:43:36.1093|                     0|                     ERROR|                     eBooks.Web.Middlewares.ExceptionLoggingMiddleware|                     خطای ناشناخته System.TypeLoadException: Could not load type '<>f__AnonymousType1`2' from assembly 'eBooks.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+   at System.Signature.GetSignature(Void* pCorSig, Int32 cCorSig, RuntimeFieldHandleInternal fieldHandle, IRuntimeMethodInfo methodHandle, RuntimeType declaringType)
+   at System.Reflection.RuntimeConstructorInfo.<get_Signature>g__LazyCreateSignature|21_0()
+   at System.Reflection.RuntimeConstructorInfo.GetParameters()
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.TryFindMatchingConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& parameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.FindApplicableConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& matchingParameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactoryInternal(Type instanceType, Type[] argumentTypes, ParameterExpression& provider, ParameterExpression& argumentArray, Expression& factoryExpressionBody)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactory(Type instanceType, Type[] argumentTypes)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.CreateActivator(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.CreateControllerFactory(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerCache.GetCachedResult(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Routing.ControllerRequestDelegateFactory.<>c__DisplayClass12_0.<CreateRequestDelegate>b__0(HttpContext context)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at eBooks.Web.Middlewares.ExceptionLoggingMiddleware.Invoke(HttpContext context)|                     url: https://localhost/LogOut|                     action: LogOut
+2024-07-18 13:43:36.3572|                     1|                     ERROR|                     Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|                     An unhandled exception has occurred while executing the request. System.TypeLoadException: Could not load type '<>f__AnonymousType1`2' from assembly 'eBooks.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+   at System.Signature.GetSignature(Void* pCorSig, Int32 cCorSig, RuntimeFieldHandleInternal fieldHandle, IRuntimeMethodInfo methodHandle, RuntimeType declaringType)
+   at System.Reflection.RuntimeConstructorInfo.<get_Signature>g__LazyCreateSignature|21_0()
+   at System.Reflection.RuntimeConstructorInfo.GetParameters()
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.TryFindMatchingConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& parameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.FindApplicableConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& matchingParameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactoryInternal(Type instanceType, Type[] argumentTypes, ParameterExpression& provider, ParameterExpression& argumentArray, Expression& factoryExpressionBody)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactory(Type instanceType, Type[] argumentTypes)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.CreateActivator(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.CreateControllerFactory(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerCache.GetCachedResult(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Routing.ControllerRequestDelegateFactory.<>c__DisplayClass12_0.<CreateRequestDelegate>b__0(HttpContext context)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at eBooks.Web.Middlewares.ExceptionLoggingMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)|                     url: https://localhost/LogOut|                     action: LogOut
+2024-07-18 13:43:45.8463|                     0|                     ERROR|                     eBooks.Web.Middlewares.ExceptionLoggingMiddleware|                     خطای ناشناخته System.TypeLoadException: Could not load type '<>f__AnonymousType1`2' from assembly 'eBooks.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+   at System.Signature.GetSignature(Void* pCorSig, Int32 cCorSig, RuntimeFieldHandleInternal fieldHandle, IRuntimeMethodInfo methodHandle, RuntimeType declaringType)
+   at System.Reflection.RuntimeConstructorInfo.<get_Signature>g__LazyCreateSignature|21_0()
+   at System.Reflection.RuntimeConstructorInfo.GetParameters()
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.TryFindMatchingConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& parameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.FindApplicableConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& matchingParameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactoryInternal(Type instanceType, Type[] argumentTypes, ParameterExpression& provider, ParameterExpression& argumentArray, Expression& factoryExpressionBody)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactory(Type instanceType, Type[] argumentTypes)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.CreateActivator(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.CreateControllerFactory(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerCache.GetCachedResult(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Routing.ControllerRequestDelegateFactory.<>c__DisplayClass12_0.<CreateRequestDelegate>b__0(HttpContext context)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at eBooks.Web.Middlewares.ExceptionLoggingMiddleware.Invoke(HttpContext context)|                     url: https://localhost/LogOut|                     action: LogOut
+2024-07-18 13:43:46.0786|                     1|                     ERROR|                     Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|                     An unhandled exception has occurred while executing the request. System.TypeLoadException: Could not load type '<>f__AnonymousType1`2' from assembly 'eBooks.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+   at System.Signature.GetSignature(Void* pCorSig, Int32 cCorSig, RuntimeFieldHandleInternal fieldHandle, IRuntimeMethodInfo methodHandle, RuntimeType declaringType)
+   at System.Reflection.RuntimeConstructorInfo.<get_Signature>g__LazyCreateSignature|21_0()
+   at System.Reflection.RuntimeConstructorInfo.GetParameters()
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.TryFindMatchingConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& parameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.FindApplicableConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& matchingParameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactoryInternal(Type instanceType, Type[] argumentTypes, ParameterExpression& provider, ParameterExpression& argumentArray, Expression& factoryExpressionBody)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactory(Type instanceType, Type[] argumentTypes)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.CreateActivator(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.CreateControllerFactory(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerCache.GetCachedResult(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Routing.ControllerRequestDelegateFactory.<>c__DisplayClass12_0.<CreateRequestDelegate>b__0(HttpContext context)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at eBooks.Web.Middlewares.ExceptionLoggingMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)|                     url: https://localhost/LogOut|                     action: LogOut
+2024-07-18 13:43:56.1729|                     0|                     ERROR|                     eBooks.Web.Middlewares.ExceptionLoggingMiddleware|                     خطای ناشناخته System.TypeLoadException: Could not load type '<>f__AnonymousType1`2' from assembly 'eBooks.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+   at System.Signature.GetSignature(Void* pCorSig, Int32 cCorSig, RuntimeFieldHandleInternal fieldHandle, IRuntimeMethodInfo methodHandle, RuntimeType declaringType)
+   at System.Reflection.RuntimeConstructorInfo.<get_Signature>g__LazyCreateSignature|21_0()
+   at System.Reflection.RuntimeConstructorInfo.GetParameters()
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.TryFindMatchingConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& parameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.FindApplicableConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& matchingParameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactoryInternal(Type instanceType, Type[] argumentTypes, ParameterExpression& provider, ParameterExpression& argumentArray, Expression& factoryExpressionBody)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactory(Type instanceType, Type[] argumentTypes)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.CreateActivator(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.CreateControllerFactory(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerCache.GetCachedResult(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Routing.ControllerRequestDelegateFactory.<>c__DisplayClass12_0.<CreateRequestDelegate>b__0(HttpContext context)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at eBooks.Web.Middlewares.ExceptionLoggingMiddleware.Invoke(HttpContext context)|                     url: https://localhost/LogOut|                     action: LogOut
+2024-07-18 13:43:56.4261|                     1|                     ERROR|                     Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|                     An unhandled exception has occurred while executing the request. System.TypeLoadException: Could not load type '<>f__AnonymousType1`2' from assembly 'eBooks.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+   at System.Signature.GetSignature(Void* pCorSig, Int32 cCorSig, RuntimeFieldHandleInternal fieldHandle, IRuntimeMethodInfo methodHandle, RuntimeType declaringType)
+   at System.Reflection.RuntimeConstructorInfo.<get_Signature>g__LazyCreateSignature|21_0()
+   at System.Reflection.RuntimeConstructorInfo.GetParameters()
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.TryFindMatchingConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& parameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.FindApplicableConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& matchingParameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactoryInternal(Type instanceType, Type[] argumentTypes, ParameterExpression& provider, ParameterExpression& argumentArray, Expression& factoryExpressionBody)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactory(Type instanceType, Type[] argumentTypes)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.CreateActivator(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.CreateControllerFactory(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerCache.GetCachedResult(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Routing.ControllerRequestDelegateFactory.<>c__DisplayClass12_0.<CreateRequestDelegate>b__0(HttpContext context)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at eBooks.Web.Middlewares.ExceptionLoggingMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)|                     url: https://localhost/LogOut|                     action: LogOut
+2024-07-18 13:44:00.3169|                     0|                     ERROR|                     eBooks.Web.Middlewares.ExceptionLoggingMiddleware|                     خطای ناشناخته System.TypeLoadException: Could not load type '<>f__AnonymousType1`2' from assembly 'eBooks.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+   at System.Signature.GetSignature(Void* pCorSig, Int32 cCorSig, RuntimeFieldHandleInternal fieldHandle, IRuntimeMethodInfo methodHandle, RuntimeType declaringType)
+   at System.Reflection.RuntimeConstructorInfo.<get_Signature>g__LazyCreateSignature|21_0()
+   at System.Reflection.RuntimeConstructorInfo.GetParameters()
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.TryFindMatchingConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& parameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.FindApplicableConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& matchingParameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactoryInternal(Type instanceType, Type[] argumentTypes, ParameterExpression& provider, ParameterExpression& argumentArray, Expression& factoryExpressionBody)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactory(Type instanceType, Type[] argumentTypes)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.CreateActivator(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.CreateControllerFactory(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerCache.GetCachedResult(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Routing.ControllerRequestDelegateFactory.<>c__DisplayClass12_0.<CreateRequestDelegate>b__0(HttpContext context)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at eBooks.Web.Middlewares.ExceptionLoggingMiddleware.Invoke(HttpContext context)|                     url: https://localhost/LogOut|                     action: LogOut
+2024-07-18 13:44:00.5788|                     1|                     ERROR|                     Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|                     An unhandled exception has occurred while executing the request. System.TypeLoadException: Could not load type '<>f__AnonymousType1`2' from assembly 'eBooks.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+   at System.Signature.GetSignature(Void* pCorSig, Int32 cCorSig, RuntimeFieldHandleInternal fieldHandle, IRuntimeMethodInfo methodHandle, RuntimeType declaringType)
+   at System.Reflection.RuntimeConstructorInfo.<get_Signature>g__LazyCreateSignature|21_0()
+   at System.Reflection.RuntimeConstructorInfo.GetParameters()
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.TryFindMatchingConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& parameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.FindApplicableConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& matchingParameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactoryInternal(Type instanceType, Type[] argumentTypes, ParameterExpression& provider, ParameterExpression& argumentArray, Expression& factoryExpressionBody)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactory(Type instanceType, Type[] argumentTypes)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.CreateActivator(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.CreateControllerFactory(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerCache.GetCachedResult(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Routing.ControllerRequestDelegateFactory.<>c__DisplayClass12_0.<CreateRequestDelegate>b__0(HttpContext context)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at eBooks.Web.Middlewares.ExceptionLoggingMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)|                     url: https://localhost/LogOut|                     action: LogOut
+2024-07-18 13:44:33.4228|                     0|                     ERROR|                     eBooks.Web.Middlewares.ExceptionLoggingMiddleware|                     خطای ناشناخته System.TypeLoadException: Could not load type '<>f__AnonymousType1`2' from assembly 'eBooks.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+   at System.Signature.GetSignature(Void* pCorSig, Int32 cCorSig, RuntimeFieldHandleInternal fieldHandle, IRuntimeMethodInfo methodHandle, RuntimeType declaringType)
+   at System.Reflection.RuntimeConstructorInfo.<get_Signature>g__LazyCreateSignature|21_0()
+   at System.Reflection.RuntimeConstructorInfo.GetParameters()
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.TryFindMatchingConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& parameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.FindApplicableConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& matchingParameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactoryInternal(Type instanceType, Type[] argumentTypes, ParameterExpression& provider, ParameterExpression& argumentArray, Expression& factoryExpressionBody)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactory(Type instanceType, Type[] argumentTypes)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.CreateActivator(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.CreateControllerFactory(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerCache.GetCachedResult(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Routing.ControllerRequestDelegateFactory.<>c__DisplayClass12_0.<CreateRequestDelegate>b__0(HttpContext context)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at eBooks.Web.Middlewares.ExceptionLoggingMiddleware.Invoke(HttpContext context)|                     url: https://localhost/LogIn|                     action: LogIn
+2024-07-18 13:44:33.6539|                     1|                     ERROR|                     Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|                     An unhandled exception has occurred while executing the request. System.TypeLoadException: Could not load type '<>f__AnonymousType1`2' from assembly 'eBooks.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+   at System.Signature.GetSignature(Void* pCorSig, Int32 cCorSig, RuntimeFieldHandleInternal fieldHandle, IRuntimeMethodInfo methodHandle, RuntimeType declaringType)
+   at System.Reflection.RuntimeConstructorInfo.<get_Signature>g__LazyCreateSignature|21_0()
+   at System.Reflection.RuntimeConstructorInfo.GetParameters()
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.TryFindMatchingConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& parameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.FindApplicableConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& matchingParameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactoryInternal(Type instanceType, Type[] argumentTypes, ParameterExpression& provider, ParameterExpression& argumentArray, Expression& factoryExpressionBody)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactory(Type instanceType, Type[] argumentTypes)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.CreateActivator(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.CreateControllerFactory(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerCache.GetCachedResult(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Routing.ControllerRequestDelegateFactory.<>c__DisplayClass12_0.<CreateRequestDelegate>b__0(HttpContext context)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at eBooks.Web.Middlewares.ExceptionLoggingMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)|                     url: https://localhost/LogIn|                     action: LogIn
+2024-07-18 13:44:39.3680|                     0|                     ERROR|                     eBooks.Web.Middlewares.ExceptionLoggingMiddleware|                     خطای ناشناخته System.TypeLoadException: Could not load type '<>f__AnonymousType1`2' from assembly 'eBooks.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+   at System.Signature.GetSignature(Void* pCorSig, Int32 cCorSig, RuntimeFieldHandleInternal fieldHandle, IRuntimeMethodInfo methodHandle, RuntimeType declaringType)
+   at System.Reflection.RuntimeConstructorInfo.<get_Signature>g__LazyCreateSignature|21_0()
+   at System.Reflection.RuntimeConstructorInfo.GetParameters()
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.TryFindMatchingConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& parameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.FindApplicableConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& matchingParameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactoryInternal(Type instanceType, Type[] argumentTypes, ParameterExpression& provider, ParameterExpression& argumentArray, Expression& factoryExpressionBody)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactory(Type instanceType, Type[] argumentTypes)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.CreateActivator(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.CreateControllerFactory(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerCache.GetCachedResult(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Routing.ControllerRequestDelegateFactory.<>c__DisplayClass12_0.<CreateRequestDelegate>b__0(HttpContext context)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at eBooks.Web.Middlewares.ExceptionLoggingMiddleware.Invoke(HttpContext context)|                     url: https://localhost/LogIn|                     action: LogIn
+2024-07-18 13:44:39.6436|                     1|                     ERROR|                     Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|                     An unhandled exception has occurred while executing the request. System.TypeLoadException: Could not load type '<>f__AnonymousType1`2' from assembly 'eBooks.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+   at System.Signature.GetSignature(Void* pCorSig, Int32 cCorSig, RuntimeFieldHandleInternal fieldHandle, IRuntimeMethodInfo methodHandle, RuntimeType declaringType)
+   at System.Reflection.RuntimeConstructorInfo.<get_Signature>g__LazyCreateSignature|21_0()
+   at System.Reflection.RuntimeConstructorInfo.GetParameters()
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.TryFindMatchingConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& parameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.FindApplicableConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& matchingParameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactoryInternal(Type instanceType, Type[] argumentTypes, ParameterExpression& provider, ParameterExpression& argumentArray, Expression& factoryExpressionBody)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactory(Type instanceType, Type[] argumentTypes)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.CreateActivator(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.CreateControllerFactory(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerCache.GetCachedResult(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Routing.ControllerRequestDelegateFactory.<>c__DisplayClass12_0.<CreateRequestDelegate>b__0(HttpContext context)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at eBooks.Web.Middlewares.ExceptionLoggingMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)|                     url: https://localhost/LogIn|                     action: LogIn
+2024-07-18 13:46:02.7795|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Application started. Press Ctrl+C to shut down. |                     url: |                     action: 
+2024-07-18 13:46:02.8078|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Hosting environment: Development |                     url: |                     action: 
+2024-07-18 13:46:02.8078|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Content root path: C:\Users\Hp\Desktop\eBooks\src\eBooks.Web |                     url: |                     action: 
+2024-07-18 13:47:10.2052|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Application started. Press Ctrl+C to shut down. |                     url: |                     action: 
+2024-07-18 13:47:10.2397|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Hosting environment: Development |                     url: |                     action: 
+2024-07-18 13:47:10.2397|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Content root path: C:\Users\Hp\Desktop\eBooks\src\eBooks.Web |                     url: |                     action: 
+2024-07-18 14:40:01.9323|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Application started. Press Ctrl+C to shut down. |                     url: |                     action: 
+2024-07-18 14:40:02.0725|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Hosting environment: Development |                     url: |                     action: 
+2024-07-18 14:40:02.0725|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Content root path: C:\Users\Hp\Desktop\eBooks\src\eBooks.Web |                     url: |                     action: 
+2024-07-18 14:43:43.4055|                     0|                     ERROR|                     eBooks.Web.Middlewares.ExceptionLoggingMiddleware|                     خطای ناشناخته System.TypeLoadException: Could not load type '<>f__AnonymousType1`2' from assembly 'eBooks.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+   at System.Signature.GetSignature(Void* pCorSig, Int32 cCorSig, RuntimeFieldHandleInternal fieldHandle, IRuntimeMethodInfo methodHandle, RuntimeType declaringType)
+   at System.Reflection.RuntimeConstructorInfo.<get_Signature>g__LazyCreateSignature|21_0()
+   at System.Reflection.RuntimeConstructorInfo.GetParameters()
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.TryFindMatchingConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& parameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.FindApplicableConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& matchingParameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactoryInternal(Type instanceType, Type[] argumentTypes, ParameterExpression& provider, ParameterExpression& argumentArray, Expression& factoryExpressionBody)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactory(Type instanceType, Type[] argumentTypes)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.CreateActivator(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.CreateControllerFactory(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerCache.GetCachedResult(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Routing.ControllerRequestDelegateFactory.<>c__DisplayClass12_0.<CreateRequestDelegate>b__0(HttpContext context)
+   at eBooks.Web.Middlewares.ExceptionLoggingMiddleware.Invoke(HttpContext context)|                     url: https://localhost/LogOut|                     action: LogOut
+2024-07-18 14:43:44.0652|                     1|                     ERROR|                     Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|                     An unhandled exception has occurred while executing the request. System.TypeLoadException: Could not load type '<>f__AnonymousType1`2' from assembly 'eBooks.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+   at System.Signature.GetSignature(Void* pCorSig, Int32 cCorSig, RuntimeFieldHandleInternal fieldHandle, IRuntimeMethodInfo methodHandle, RuntimeType declaringType)
+   at System.Reflection.RuntimeConstructorInfo.<get_Signature>g__LazyCreateSignature|21_0()
+   at System.Reflection.RuntimeConstructorInfo.GetParameters()
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.TryFindMatchingConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& parameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.FindApplicableConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& matchingParameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactoryInternal(Type instanceType, Type[] argumentTypes, ParameterExpression& provider, ParameterExpression& argumentArray, Expression& factoryExpressionBody)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactory(Type instanceType, Type[] argumentTypes)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.CreateActivator(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.CreateControllerFactory(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerCache.GetCachedResult(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Routing.ControllerRequestDelegateFactory.<>c__DisplayClass12_0.<CreateRequestDelegate>b__0(HttpContext context)
+   at eBooks.Web.Middlewares.ExceptionLoggingMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)|                     url: https://localhost/LogOut|                     action: LogOut
+2024-07-18 14:46:30.8218|                     0|                     ERROR|                     eBooks.Web.Middlewares.ExceptionLoggingMiddleware|                     خطای ناشناخته System.TypeLoadException: Could not load type '<>f__AnonymousType1`2' from assembly 'eBooks.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+   at System.Signature.GetSignature(Void* pCorSig, Int32 cCorSig, RuntimeFieldHandleInternal fieldHandle, IRuntimeMethodInfo methodHandle, RuntimeType declaringType)
+   at System.Reflection.RuntimeConstructorInfo.<get_Signature>g__LazyCreateSignature|21_0()
+   at System.Reflection.RuntimeConstructorInfo.GetParameters()
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.TryFindMatchingConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& parameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.FindApplicableConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& matchingParameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactoryInternal(Type instanceType, Type[] argumentTypes, ParameterExpression& provider, ParameterExpression& argumentArray, Expression& factoryExpressionBody)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactory(Type instanceType, Type[] argumentTypes)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.CreateActivator(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.CreateControllerFactory(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerCache.GetCachedResult(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Routing.ControllerRequestDelegateFactory.<>c__DisplayClass12_0.<CreateRequestDelegate>b__0(HttpContext context)
+   at eBooks.Web.Middlewares.ExceptionLoggingMiddleware.Invoke(HttpContext context)|                     url: https://localhost/LogOut|                     action: LogOut
+2024-07-18 14:46:31.3625|                     1|                     ERROR|                     Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|                     An unhandled exception has occurred while executing the request. System.TypeLoadException: Could not load type '<>f__AnonymousType1`2' from assembly 'eBooks.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+   at System.Signature.GetSignature(Void* pCorSig, Int32 cCorSig, RuntimeFieldHandleInternal fieldHandle, IRuntimeMethodInfo methodHandle, RuntimeType declaringType)
+   at System.Reflection.RuntimeConstructorInfo.<get_Signature>g__LazyCreateSignature|21_0()
+   at System.Reflection.RuntimeConstructorInfo.GetParameters()
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.TryFindMatchingConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& parameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.FindApplicableConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& matchingParameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactoryInternal(Type instanceType, Type[] argumentTypes, ParameterExpression& provider, ParameterExpression& argumentArray, Expression& factoryExpressionBody)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactory(Type instanceType, Type[] argumentTypes)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.CreateActivator(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.CreateControllerFactory(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerCache.GetCachedResult(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Routing.ControllerRequestDelegateFactory.<>c__DisplayClass12_0.<CreateRequestDelegate>b__0(HttpContext context)
+   at eBooks.Web.Middlewares.ExceptionLoggingMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)|                     url: https://localhost/LogOut|                     action: LogOut
+2024-07-18 14:46:40.2460|                     0|                     ERROR|                     eBooks.Web.Middlewares.ExceptionLoggingMiddleware|                     خطای ناشناخته System.TypeLoadException: Could not load type '<>f__AnonymousType1`2' from assembly 'eBooks.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+   at System.Signature.GetSignature(Void* pCorSig, Int32 cCorSig, RuntimeFieldHandleInternal fieldHandle, IRuntimeMethodInfo methodHandle, RuntimeType declaringType)
+   at System.Reflection.RuntimeConstructorInfo.<get_Signature>g__LazyCreateSignature|21_0()
+   at System.Reflection.RuntimeConstructorInfo.GetParameters()
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.TryFindMatchingConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& parameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.FindApplicableConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& matchingParameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactoryInternal(Type instanceType, Type[] argumentTypes, ParameterExpression& provider, ParameterExpression& argumentArray, Expression& factoryExpressionBody)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactory(Type instanceType, Type[] argumentTypes)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.CreateActivator(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.CreateControllerFactory(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerCache.GetCachedResult(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Routing.ControllerRequestDelegateFactory.<>c__DisplayClass12_0.<CreateRequestDelegate>b__0(HttpContext context)
+   at eBooks.Web.Middlewares.ExceptionLoggingMiddleware.Invoke(HttpContext context)|                     url: https://localhost/LogOut|                     action: LogOut
+2024-07-18 14:46:40.6739|                     1|                     ERROR|                     Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|                     An unhandled exception has occurred while executing the request. System.TypeLoadException: Could not load type '<>f__AnonymousType1`2' from assembly 'eBooks.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+   at System.Signature.GetSignature(Void* pCorSig, Int32 cCorSig, RuntimeFieldHandleInternal fieldHandle, IRuntimeMethodInfo methodHandle, RuntimeType declaringType)
+   at System.Reflection.RuntimeConstructorInfo.<get_Signature>g__LazyCreateSignature|21_0()
+   at System.Reflection.RuntimeConstructorInfo.GetParameters()
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.TryFindMatchingConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& parameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.FindApplicableConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& matchingParameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactoryInternal(Type instanceType, Type[] argumentTypes, ParameterExpression& provider, ParameterExpression& argumentArray, Expression& factoryExpressionBody)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactory(Type instanceType, Type[] argumentTypes)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.CreateActivator(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.CreateControllerFactory(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerCache.GetCachedResult(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Routing.ControllerRequestDelegateFactory.<>c__DisplayClass12_0.<CreateRequestDelegate>b__0(HttpContext context)
+   at eBooks.Web.Middlewares.ExceptionLoggingMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)|                     url: https://localhost/LogOut|                     action: LogOut
+2024-07-18 14:47:42.0598|                     0|                     ERROR|                     eBooks.Web.Middlewares.ExceptionLoggingMiddleware|                     خطای ناشناخته System.TypeLoadException: Could not load type '<>f__AnonymousType1`2' from assembly 'eBooks.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+   at System.Signature.GetSignature(Void* pCorSig, Int32 cCorSig, RuntimeFieldHandleInternal fieldHandle, IRuntimeMethodInfo methodHandle, RuntimeType declaringType)
+   at System.Reflection.RuntimeConstructorInfo.<get_Signature>g__LazyCreateSignature|21_0()
+   at System.Reflection.RuntimeConstructorInfo.GetParameters()
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.TryFindMatchingConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& parameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.FindApplicableConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& matchingParameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactoryInternal(Type instanceType, Type[] argumentTypes, ParameterExpression& provider, ParameterExpression& argumentArray, Expression& factoryExpressionBody)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactory(Type instanceType, Type[] argumentTypes)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.CreateActivator(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.CreateControllerFactory(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerCache.GetCachedResult(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Routing.ControllerRequestDelegateFactory.<>c__DisplayClass12_0.<CreateRequestDelegate>b__0(HttpContext context)
+   at eBooks.Web.Middlewares.ExceptionLoggingMiddleware.Invoke(HttpContext context)|                     url: https://localhost/LogOut|                     action: LogOut
+2024-07-18 14:47:42.6872|                     1|                     ERROR|                     Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|                     An unhandled exception has occurred while executing the request. System.TypeLoadException: Could not load type '<>f__AnonymousType1`2' from assembly 'eBooks.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+   at System.Signature.GetSignature(Void* pCorSig, Int32 cCorSig, RuntimeFieldHandleInternal fieldHandle, IRuntimeMethodInfo methodHandle, RuntimeType declaringType)
+   at System.Reflection.RuntimeConstructorInfo.<get_Signature>g__LazyCreateSignature|21_0()
+   at System.Reflection.RuntimeConstructorInfo.GetParameters()
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.TryFindMatchingConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& parameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.FindApplicableConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& matchingParameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactoryInternal(Type instanceType, Type[] argumentTypes, ParameterExpression& provider, ParameterExpression& argumentArray, Expression& factoryExpressionBody)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactory(Type instanceType, Type[] argumentTypes)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.CreateActivator(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.CreateControllerFactory(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerCache.GetCachedResult(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Routing.ControllerRequestDelegateFactory.<>c__DisplayClass12_0.<CreateRequestDelegate>b__0(HttpContext context)
+   at eBooks.Web.Middlewares.ExceptionLoggingMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)|                     url: https://localhost/LogOut|                     action: LogOut
+2024-07-18 17:22:38.0191|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Application started. Press Ctrl+C to shut down. |                     url: |                     action: 
+2024-07-18 17:22:38.1177|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Hosting environment: Development |                     url: |                     action: 
+2024-07-18 17:22:38.1177|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Content root path: C:\Users\Hp\Desktop\eBooks\src\eBooks.Web |                     url: |                     action: 
+2024-07-18 17:25:48.2264|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Application started. Press Ctrl+C to shut down. |                     url: |                     action: 
+2024-07-18 17:25:48.2845|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Hosting environment: Development |                     url: |                     action: 
+2024-07-18 17:25:48.3047|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Content root path: C:\Users\Hp\Desktop\eBooks\src\eBooks.Web |                     url: |                     action: 
+2024-07-18 17:36:35.9171|                     3|                     ERROR|                     Microsoft.AspNetCore.Mvc.ViewFeatures.PartialViewResultExecutor|                     The partial view '_ChangePassword' was not found. Searched locations: /Views/Account/_ChangePassword.cshtml, /Views/Shared/_ChangePassword.cshtml |                     url: https://localhost/Account/ChangePassword|                     action: ChangePassword
+2024-07-18 17:36:38.9994|                     0|                     ERROR|                     eBooks.Web.Middlewares.ExceptionLoggingMiddleware|                     خطای ناشناخته System.InvalidOperationException: The view '_ChangePassword' was not found. The following locations were searched:
+/Views/Account/_ChangePassword.cshtml
+/Views/Shared/_ChangePassword.cshtml
+   at Microsoft.AspNetCore.Mvc.ViewEngines.ViewEngineResult.EnsureSuccessful(IEnumerable`1 originalLocations)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.PartialViewResultExecutor.ExecuteAsync(ActionContext context, PartialViewResult result)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeResultAsync>g__Logged|22_0(ResourceInvoker invoker, IActionResult result)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at eBooks.Web.Middlewares.ExceptionLoggingMiddleware.Invoke(HttpContext context)|                     url: https://localhost/Account/ChangePassword|                     action: ChangePassword
+2024-07-18 17:36:40.5747|                     1|                     ERROR|                     Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|                     An unhandled exception has occurred while executing the request. System.InvalidOperationException: The view '_ChangePassword' was not found. The following locations were searched:
+/Views/Account/_ChangePassword.cshtml
+/Views/Shared/_ChangePassword.cshtml
+   at Microsoft.AspNetCore.Mvc.ViewEngines.ViewEngineResult.EnsureSuccessful(IEnumerable`1 originalLocations)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.PartialViewResultExecutor.ExecuteAsync(ActionContext context, PartialViewResult result)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeResultAsync>g__Logged|22_0(ResourceInvoker invoker, IActionResult result)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at eBooks.Web.Middlewares.ExceptionLoggingMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)|                     url: https://localhost/Account/ChangePassword|                     action: ChangePassword
+2024-07-18 17:36:48.2042|                     3|                     ERROR|                     Microsoft.AspNetCore.Mvc.ViewFeatures.PartialViewResultExecutor|                     The partial view '_ChangePassword' was not found. Searched locations: /Views/Account/_ChangePassword.cshtml, /Views/Shared/_ChangePassword.cshtml |                     url: https://localhost/Account/ChangePassword|                     action: ChangePassword
+2024-07-18 17:36:50.2721|                     0|                     ERROR|                     eBooks.Web.Middlewares.ExceptionLoggingMiddleware|                     خطای ناشناخته System.InvalidOperationException: The view '_ChangePassword' was not found. The following locations were searched:
+/Views/Account/_ChangePassword.cshtml
+/Views/Shared/_ChangePassword.cshtml
+   at Microsoft.AspNetCore.Mvc.ViewEngines.ViewEngineResult.EnsureSuccessful(IEnumerable`1 originalLocations)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.PartialViewResultExecutor.ExecuteAsync(ActionContext context, PartialViewResult result)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeResultAsync>g__Logged|22_0(ResourceInvoker invoker, IActionResult result)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at eBooks.Web.Middlewares.ExceptionLoggingMiddleware.Invoke(HttpContext context)|                     url: https://localhost/Account/ChangePassword|                     action: ChangePassword
+2024-07-18 17:36:51.5900|                     1|                     ERROR|                     Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|                     An unhandled exception has occurred while executing the request. System.InvalidOperationException: The view '_ChangePassword' was not found. The following locations were searched:
+/Views/Account/_ChangePassword.cshtml
+/Views/Shared/_ChangePassword.cshtml
+   at Microsoft.AspNetCore.Mvc.ViewEngines.ViewEngineResult.EnsureSuccessful(IEnumerable`1 originalLocations)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.PartialViewResultExecutor.ExecuteAsync(ActionContext context, PartialViewResult result)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeResultAsync>g__Logged|22_0(ResourceInvoker invoker, IActionResult result)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at eBooks.Web.Middlewares.ExceptionLoggingMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)|                     url: https://localhost/Account/ChangePassword|                     action: ChangePassword
+2024-07-18 17:42:29.3492|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Application started. Press Ctrl+C to shut down. |                     url: |                     action: 
+2024-07-18 17:42:29.3867|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Hosting environment: Development |                     url: |                     action: 
+2024-07-18 17:42:29.3867|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Content root path: C:\Users\Hp\Desktop\eBooks\src\eBooks.Web |                     url: |                     action: 
+2024-07-18 17:52:43.7212|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Application started. Press Ctrl+C to shut down. |                     url: |                     action: 
+2024-07-18 17:52:43.7557|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Hosting environment: Development |                     url: |                     action: 
+2024-07-18 17:52:43.7557|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Content root path: C:\Users\Hp\Desktop\eBooks\src\eBooks.Web |                     url: |                     action: 
+2024-07-18 18:16:46.3922|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Application started. Press Ctrl+C to shut down. |                     url: |                     action: 
+2024-07-18 18:16:46.4480|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Hosting environment: Development |                     url: |                     action: 
+2024-07-18 18:16:46.4480|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Content root path: C:\Users\Hp\Desktop\eBooks\src\eBooks.Web |                     url: |                     action: 
+2024-07-18 18:24:07.9318|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Application started. Press Ctrl+C to shut down. |                     url: |                     action: 
+2024-07-18 18:24:07.9671|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Hosting environment: Development |                     url: |                     action: 
+2024-07-18 18:24:07.9671|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Content root path: C:\Users\Hp\Desktop\eBooks\src\eBooks.Web |                     url: |                     action: 
+2024-07-18 18:50:26.2753|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Application started. Press Ctrl+C to shut down. |                     url: |                     action: 
+2024-07-18 18:50:26.3071|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Hosting environment: Development |                     url: |                     action: 
+2024-07-18 18:50:26.3071|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Content root path: C:\Users\Hp\Desktop\eBooks\src\eBooks.Web |                     url: |                     action: 

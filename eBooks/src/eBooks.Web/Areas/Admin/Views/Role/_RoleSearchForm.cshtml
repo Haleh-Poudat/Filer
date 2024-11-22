@@ -1,0 +1,51 @@
+﻿@model RoleSearchViewModel
+
+<form id="FilterSearchForm" asp-action="GetRoleAjax" asp-controller="Role" asp-area="Admin"
+      data-ajax="true"
+      data-ajax-method="GET"
+      data-ajax-loading="#loading"
+      data-ajax-failure="OnFailure(xhr)"
+      data-ajax-success="SearchOnSuccess(xhr)">
+    <input id="UserSearchForm-PageNumber" asp-for="PageNumber" name="pageNumber" type="hidden" />
+    <div class="m-2 p-3 bg-dark-Blue">
+        <div class="row col-12 mb-3">
+            <div class="col-4 d-grid">
+                <input asp-for="FilterRoleName" class="form-control" type="text" placeholder="Search for Role Title" />
+            </div>
+            <div class="col-4 d-grid">
+                <select name="SelectedOrderByItem" class="form-select form-select-sm" aria-label=".form-select-sm example">
+                    @foreach (var item in Model.OrderByTypeList)
+                    {
+                        <option value=@item.Value>@item.Text</option>
+                    }
+                </select>
+            </div>
+            <div class="col-4 d-grid">
+                <button id="sub" class="btn btn-block btn-info" type="submit">Search</button>
+            </div>
+        </div>
+        <div class="row col-12">
+            <div class="col-4 d-grid">
+                <select name="SelectedSortByItem" class="form-select form-select-sm" aria-label=".form-select-sm example">
+                    @foreach (var item in Model.RoleSortListItems)
+                    {
+                        <option value=@item.Value>@item.Text</option>
+                    }
+                </select>
+            </div>
+            <div class="col-4 d-grid">
+                <select name="Take" class="form-select form-select-sm" aria-label=".form-select-sm example">
+                    @foreach (var item in Model.TakeListItem)
+                    {
+                        <option value=@item.Value>@item.Text</option>
+                    }
+                </select>
+            </div>
+            <div class="col-4 d-grid">
+                <a class="btn btn-sm  btn-block btn-info" href="@Url.Action("Index", "Role", new { area = "Admin" })">Clear Filter</a>
+            </div>
+        </div>
+    </div>
+</form>
+
+

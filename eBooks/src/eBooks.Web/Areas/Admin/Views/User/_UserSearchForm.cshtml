@@ -1,0 +1,65 @@
+﻿@model ListViewModel
+
+<form id="UserSearchForm" asp-action="GetUserAjax" asp-controller="User" asp-area="Admin" autocomplete="off"
+      data-ajax="true"
+      data-ajax-method="GET"
+      data-ajax-loading="#loadingOverlay"
+      data-ajax-success="">
+    <input asp-for="@Model.IsDelete" type="hidden" />
+    <input id="pageNumber" asp-for="@Model.PageNumber" type="hidden" />
+    <input id="pageCount" asp-for="@Model.PageCount" type="hidden" />
+    <div class="m-2 p-3 bg-Gray-Gray rounded rounded-3">
+        <div class="row mb-3">
+            <div class="col-3 d-grid">
+                <input asp-for="FilterNameAndFamily" class="form-control same-size" type="text" placeholder="First Name and Last Name" />
+            </div>
+            <div class="col-3 d-grid">
+                <input asp-for="FilterPhoneNumber" class="form-control same-size" type="text" placeholder="Phone Number" />
+            </div>
+            <div class="col-3 d-grid">
+                <input asp-for="UserName" class="form-control same-size" type="text" placeholder="National Code" />
+            </div>
+            <div class="col-3 d-grid">
+                <a onclick="SearechBookTitle()" autocomplete="off" data-loading-text="درخواست" class="btn btn-sm btn-block bg-gray-medium text-white mt-1 same-size">
+                    <b><i class="fa fa-search"></i></b> Search
+                </a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-3 d-grid">
+                <select name="SelectedSortByItem" class="user-select-auto bg-white same-size" aria-label="Sort By">
+                    @foreach (var item in Model.SortByListItems)
+                    {
+                        <option value="@item.Value">@item.Text</option>
+                    }
+                </select>
+            </div>
+            <div class="col-3 d-grid">
+                <select name="SelectedOrderByItem" class="user-select-auto bg-white same-size" aria-label="Order By">
+                    @foreach (var item in Model.OrderByTypeList)
+                    {
+                        <option value="@item.Value">@item.Text</option>
+                    }
+                </select>
+            </div>
+            <div class="col-3 d-grid">
+                <select name="Take" class="user-select-auto bg-white same-size" aria-label="Take">
+                    @foreach (var item in Model.TakeListItem)
+                    {
+                        <option value="@item.Value">@item.Text</option>
+                    }
+                </select>
+            </div>
+            <div class="col-3 d-grid">
+                <a class="btn btn-sm btn-block bg-gray-medium text-white same-size" href="@Url.Action("Index","User",new {area="Admin",isDelete=Model.IsDelete})">Clear Filters</a>
+            </div>
+        </div>
+    </div>
+</form>
+
+<style>
+    .same-size {
+        height: 38px;
+        padding: 0.375rem 0.75rem;
+    }
+</style>

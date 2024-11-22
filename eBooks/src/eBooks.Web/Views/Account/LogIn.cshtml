@@ -1,0 +1,77 @@
+﻿@model LogInViewModel
+@{
+    ViewData["Title"] = "Login";
+
+}
+
+<div class="mt-5">
+    <div class="authentication-inner row m-0">
+        <div class="d-flex col-12 col-lg-6 col-xl-6 align-items-center authentication-bg p-sm-5 p-4">
+            <div class="w-px-400 mx-auto">
+                <div class="app-brand mb-4">
+                    <a href="index.html" class="app-brand-link gap-2 mb-2">
+                        <span class="app-brand-logo demo">
+                        </span>
+                    </a>
+                </div>
+                <h4 class="mb-2">Welcome to the digital archive!</h4>
+                <p class="mb-4">Please log in to your account.</p>
+                <div asp-validation-summary="All" class="text-danger"></div>
+                <form asp-action="LogIn" asp-controller="Account" asp-area="" method="post" autocomplete="off">
+
+                    <input hidden name="returnUrl" value="@ViewData["ReturnUrl"]"/>
+                    <div class="form-group">
+                        <label asp-for="UserName" class="mb-2">National ID</label>
+                        <input asp-for="UserName" type="text" required class="form-control" placeholder="">
+                        <span asp-validation-for="UserName" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label for="password-input" class="mb-2">Password</label>
+                        <div class="password-wrapper">
+                            <input asp-for="Password" type="password" required id="password-input" class="form-control" placeholder="">
+                            <i id="password-toggle" class="fa fa-eye-slash password-toggle"></i>
+                        </div>
+                        <span class="text-danger" id="password-validation"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="RememberMe">Remember Me</label>
+                        <input asp-for="RememberMe" type="checkbox">
+                    </div>
+                    <button type="submit" class="btn btn-primary d-grid w-100">Login</button>
+                </form>
+            </div>
+        </div>
+        <div class="d-none d-lg-flex col-lg-6 col-xl-6 align-items-center">
+            <div class="flex-row text-center mx-auto">
+                <img src="~/images/login-form.png" alt="Auth Cover Bg color" width="520" class="img-fluid authentication-cover-img" data-app-light-img="pages/login-light.png" data-app-dark-img="pages/login-dark.png">
+                <div class="mx-auto">
+                    <h3 class="opacity-25">Please log in to access the website's features.</h3>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

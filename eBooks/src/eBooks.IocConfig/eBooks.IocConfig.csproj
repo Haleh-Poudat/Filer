@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="GoogleReCaptcha.V3" Version="1.3.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.1.39" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.6" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="8.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\eBooks.AutoMapperProfiles\eBooks.AutoMapperProfiles.csproj" />
+    <ProjectReference Include="..\eBooks.Datalayer\eBooks.Datalayer.csproj" />
+    <ProjectReference Include="..\eBooks.ServiceLayer\eBooks.ServiceLayer.csproj" />
+    <ProjectReference Include="..\eBooks.ViewModel\eBooks.ViewModel.csproj" />
+  </ItemGroup>
+
+</Project>

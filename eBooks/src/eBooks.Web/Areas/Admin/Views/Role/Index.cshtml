@@ -1,0 +1,31 @@
+﻿@model RoleSearchViewModel
+@{
+    ViewData["Title"] = "Index";
+}
+<div class="container">
+    <partial name="_RoleSearchForm" />
+    @if (IsAdmin())
+    {
+        <a href="#" class="egg-button"
+           data-ajax="true"
+           data-ajax-url="@Url.Action("Add", "Role", new { area = "Admin" })"
+           data-ajax-method="GET"
+           data-ajax-failure="OnFailure(xhr)"
+           data-ajax-success="ShowModalOnSuccess(xhr,status,data,'modal-xl','AddRoleForm')">
+                <i class="fa  fa-plus-circle pull-left fa-2x text-success" aria-hidden="true"></i>
+        </a>
+    }
+    <img id="loading" src="/images/site/Loading-Text.gif" style="display: none" alt="Please Wait..." />
+    <div id="Datalist">
+        <partial name="_RoleList" new model="@Model" />
+    </div>
+</div>
+
+<script>
+    window.Url = '/Admin/Role/GetRoleAjax';
+    window.PageNumber = @Model.PageNumber;
+</script>
+
+@section Scripts{
+    <script src="/js/pagination.js"></script>
+     }

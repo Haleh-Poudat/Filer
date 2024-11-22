@@ -1,0 +1,95 @@
+﻿@model IEnumerable<eBooks.ViewModel.Logs.ErrorViewModel>
+@{
+    ViewData["Title"] = "Index";
+}
+
+@if (IsConstant())
+{
+    <div class="card me-5 ms-5">
+        <div class="card-header d-flex justify-content-between align-items-center">
+            <h5 class="card-title mb-0">System Errors</h5>
+            <form asp-action="Clear" method="post" class="mb-0">
+                <button type="submit" class="btn btn-danger">Clear All Errors</button>
+            </form>
+        </div>
+        <div class="card-body">
+            <div class="table-responsive">
+                <table class="table table-striped table-bordered">
+                    <thead>
+                    <tr>
+                            <th class="col-3">Information</th>
+                        <th class="col-9">All Xml</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td class="col col-3">
+                                    <span class="text-danger">Time UTC:</span> <span class="text-primary"> @item.TimeUtc.ToPersianDateTimeString()</span>
+                                    <hr class="border border-3 border-dark"/>
+                                    <span class="text-danger">User:</span> <span class="text-primary"> @item.User</span>
+                                    <hr class="border border-3 border-dark"/>
+                                    <span class="text-danger">Host :</span> <span class="text-primary">@item.Host</span>
+                                    <hr class="border border-3 border-dark"/>
+                                    <span class="text-danger">Type :</span> <span class="text-primary">@item.Type</span>
+                                    <hr class="border border-3 border-dark"/>
+                                    <span class="text-danger">Source :</span> <span class="text-primary"> @item.Source</span>
+                                    <hr class="border border-3 border-dark"/>
+                                    <span class="text-danger">Message :</span> <span class="text-primary">@item.Message</span>
+                                    <hr class="border border-3 border-dark"/>
+                                    <span v>StatusCode :</span> <span class="text-danger">@item.StatusCode</span>
+                                    <hr class="border border-3 border-dark"/>
+                                </td>
+                                <td class="text-start col col-9">@item.AllXml</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+}
+else
+{
+    <div class="text-center mt-5">
+        <img src="~/images/notError.jpg" alt="No Errors Image" class="img-fluid pb-70">
+    </div>
+}
+
+<script>
+    const tableContainer = document.querySelector('.table-responsive');
+
+    let isDown = false;
+    let startX;
+    let scrollLeft;
+
+    tableContainer.addEventListener('mousedown', (e) => {
+        isDown = true;
+        tableContainer.classList.add('active');
+        startX = e.pageX - tableContainer.offsetLeft;
+        scrollLeft = tableContainer.scrollLeft;
+    });
+
+    tableContainer.addEventListener('mouseleave', () => {
+        isDown = false;
+        tableContainer.classList.remove('active');
+    });
+
+    tableContainer.addEventListener('mouseup', () => {
+        isDown = false;
+        tableContainer.classList.remove('active');
+    });
+
+    tableContainer.addEventListener('mousemove', (e) => {
+        if (!isDown) return;
+        e.preventDefault();
+        const x = e.pageX - tableContainer.offsetLeft;
+        const walk = (x - startX) * 3;
+        tableContainer.scrollLeft = scrollLeft - walk;
+    });
+</script>
+
+
+
+

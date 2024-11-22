@@ -1,0 +1,19 @@
+2024-11-20 21:19:20.0971|                     0|                     ERROR|                     eBooks.Web.Program|                     Stopped program because of exception Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in D:\Projects\eBooks\src\eBooks.Web\Program.cs:line 43|                     url: |                     action: 
+2024-11-20 21:19:44.3034|                     0|                     ERROR|                     eBooks.Web.Program|                     Stopped program because of exception Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in D:\Projects\eBooks\src\eBooks.Web\Program.cs:line 43|                     url: |                     action: 
+2024-11-20 21:20:01.3831|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Application started. Press Ctrl+C to shut down. |                     url: |                     action: 
+2024-11-20 21:20:01.3994|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Hosting environment: Development |                     url: |                     action: 
+2024-11-20 21:20:01.3994|                     0|                     INFO|                     Microsoft.Hosting.Lifetime|                     Content root path: D:\Projects\eBooks\src\eBooks.Web |                     url: |                     action: 

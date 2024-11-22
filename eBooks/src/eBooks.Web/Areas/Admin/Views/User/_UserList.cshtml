@@ -1,0 +1,13 @@
+﻿@model ListViewModel
+@if (Model.UserListViewModel.Any())
+{
+    @foreach (var item in Model.UserListViewModel)
+    {
+        <partial name="_UserItem" new model="@item" />
+    }
+}
+else
+{
+    <tr class="text-center"><td></td><td></td><td><span class="text-primary">No information found.</span></td><td></td><td></td><td></td><td></td></tr>
+}
+

@@ -1,0 +1,59 @@
+﻿<!doctype html>
+<html lang="zxx" class="theme-light">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>@ViewData["Title"]</title>
+
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/css/font-awesome.min.css">
+    <link rel="stylesheet" href="~/css/style.css">
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/sweetAlert/sweetalert2.min.css" asp-append-version="true" />
+    <script src="~/sweetAlert/sweetalert2.min.js"></script>
+
+    @await RenderSectionAsync("CssLibrary", required: false)
+
+</head>
+<body class="d-flex flex-column min-vh-100">
+    <div class="content-wrap flex-grow-1">
+
+        @await Component.InvokeAsync("AreasLayoutHeader")
+        @RenderBody()
+    </div>
+
+
+    <!-- Modal -->
+    <div class="modal fade" id="BestModal" data-bs-backdrop="static" data-bs-keyboard="true" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+        <div id="BestModalDialog" class="modal-dialog modal-dialog-centered modal-dialog-scrollable ">
+            <div class="modal-content">
+              <div class="modal-body" id="BestModalBody">
+                    ...
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--End Modal -->
+
+    <div class="copyright-area-content bg-dark text-white mt-3">
+        <div class="text-center">
+            <div class="col-md-12 p-3 m-0">
+            </div>
+        </div>
+    </div>
+    <div class="go-top">
+        <i class='bx bx-chevron-up'></i>
+    </div>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.unobtrusive-ajax.min.js"></script>
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+    <script src="~/js/customAlert.js" asp-append-version="true"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+    <partial name="_NotificationPanel" />
+</body>
+</html>

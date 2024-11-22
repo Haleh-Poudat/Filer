@@ -1,0 +1,158 @@
+﻿@model EbookListViewModel
+@{
+    ViewBag.Title = "Digital Archive ";
+    Layout = "~/Views/Shared/_AlphaLayout.cshtml";
+}
+
+<input type="hidden" name="selectedNodeIdName" id="selectedNodeId" />
+<input type="hidden" id="dataContainer" data-json="@Html.Raw(Newtonsoft.Json.JsonConvert.SerializeObject(Model.Libraries))" />
+<div class="container-fluid">
+
+    <div class="page-header mt-4 ms-4">
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item me-4" aria-current="page">Digital Archive</li>
+            </ol>
+        </nav>
+    </div>
+    <div class="content">
+        <div class="row">
+            <div class="col-md-4">
+                <div class="card">
+                    <div class="card-body p-0">
+                        <div class="tree-default well border-left-teal border-left-xlg" id="LibraryCategoryTree">
+                            <ul>
+                                @foreach (var item in Model.Libraries)
+                                {
+                                }
+                            </ul>
+                        </div>
+                    </div>
+                    @if (IsAdmin())
+                    {
+                        <div class="card-footer d-flex justify-content-between">
+                            <div class="order-1">
+                                <a data-toggle="tooltip"
+                                   data-placement="left"
+                                   title="New Category"
+                                   id="btnCreateCategory"
+                                   class="btn bg-gray-medium text-white lib-btn-white"
+                                   data-ajax="true"
+                                   data-ajax-url="@Url.Action("Add", "Category")"
+                                   data-ajax-method="GET"
+                                   data-ajax-failure="OnFailure(xhr)"
+                                   data-ajax-success="ShowModalOnSuccess(xhr,status,data,'modal-lg','createLibraryCategoryForm')">
+                                    Add Category
+                                </a>
+                            </div>
+                            <div class="d-flex order-2">
+                                <a style="display: none;"
+                                   class="btn"
+                                   data-toggle="tooltip"
+                                   data-placement="left"
+                                   title="Edit Category "
+                                   id="btnEditCategory"
+                                   data-ajax="true"
+                                   data-ajax-url="@Url.Action("Edit", "Category")"
+                                   data-ajax-method="GET"
+                                   data-ajax-failure="OnFailure(xhr)"
+                                   data-ajax-success="ShowModalOnSuccess(xhr,status,data,'modal-lg','editLibraryCategoryForm')">
+                                    <i class="fa fa-edit fa-lg text-success"></i>
+                                </a>
+                                <a style="display: none;"
+                                   class="btn" href="#"
+                                   title="Delete Category "
+                                   id="btnDeleteCategory"
+                                   data-ajax="true"
+                                   data-ajax-method="POST"
+                                   data-ajax-begin="DeleteCategory()"
+                                   data-ajax-failure="OnFailure(xhr)">
+                                    <i class="fa fa-trash fa-lg text-danger"></i>
+                                </a>
+                            </div>
+                        </div>
+                    }
+                    <div id="jstree" class="p-5">
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-8">
+                <div class="card">
+                    <div class="card-header">
+                        <div class="d-flex justify-content-between align-items-center mb-3">
+                            <div class="flex-grow-1 mr-3">
+                                <partial name="_Search" />
+                            </div>
+                            <div class="col-auto me-2">
+                                <a class="btn bg-gray-medium text-white lib-btn-white me-2" href="@Url.Action("Index","Library")">Clear Filter</a>
+                                @if (IsAdmin())
+                                {
+                                    <a style="display: none;"
+                                       data-toggle="tooltip"
+                                       href=""
+                                       data-placement="left"
+                                       title="Add New File"
+                                       id="btnCreateEbook"
+                                       class="btn bg-gray-dark lib-btn-white"
+                                       data-ajax="true"
+                                       data-ajax-url="@Url.Action("Create", "Library")"
+                                       data-ajax-method="GET"
+                                       data-ajax-failure="OnFailure(xhr)"
+                                       data-ajax-success="ShowModalOnSuccess(xhr,status,data,'modal-lg')">
+                                        Add New File
+                                    </a>
+                                }
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card-body p-0">
+                        <div class="table-responsive">
+                            <table id="bookTable" class="table table-hover table-striped">
+                                <thead>
+                                    <tr>
+                                        <th scope="col" class="col-1 text-center">Row</th>
+                                        <th scope="col" class="col-2 text-center">Upload date</th>
+                                        <th scope="col" class="col-7 text-center">Title</th>
+                                        <th scope="col" class="col-2 text-center">Operation</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="Datalist">
+                                    @{
+                                        Html.RenderPartial("_ListAjax", Model);
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+                        <div id="showPagination" class="bg-secondary text-center">
+                            <a pageIndex="2" id="moreIndex" class="btn btn-light btn-block col-6 m-2" onclick="More()">More</a>
+                        </div>
+                       
+                        <div class="overlay" id="loadingOverlay">
+                            <div class="loader-container">
+                                <img src="~/images/study.gif" class="loader" alt="Loading...">
+                                <div>Please Wait...</div>
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+@{
+    var allDataJson = Newtonsoft.Json.JsonConvert.SerializeObject(Model.Libraries);
+}
+
+<script>
+    window.Url = '/Library/ListAjax';
+    window.PageNumber = @Model.PageNumber;
+    window.formId = '#LibrarySearchForm';
+    var allData = @Html.Raw(Newtonsoft.Json.JsonConvert.SerializeObject(Model.Libraries));
+</script>
+@section Scripts {
+    <script src="dist/jstree.min.js"></script>
+}
+
+

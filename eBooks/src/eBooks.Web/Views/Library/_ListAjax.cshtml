@@ -1,0 +1,16 @@
+﻿@model eBooks.ViewModel.Library.Ebook.EbookListViewModel
+
+@if (Model.Ebooks.Any())
+{
+    @foreach (var item in Model.Ebooks)
+    {
+        <partial name="_Item" model="item" />
+    }
+
+}
+else
+{
+    <tr class="text-center"><td></td><td><span class="text-primary">No information found.</span></td><td></td><td></td><td></td></tr>
+}
+
+

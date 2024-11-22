@@ -1,0 +1,91 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="container mt-4">
+    <div class="row row-cols-lg-5 row-cols-md-5  row-cols-sm-3">
+        @if (IsAdmin())
+        {
+            <div class="col mb-1">
+                <a class="btn btn-lg btn-danger text-danger bg-Gray-Gray" style="width: 100%; height: 100%;"
+                   href="@Url.Action("Index", "User", new { area = "Admin", isDelete = false, haveRole = true })">
+                    <i class="fa fa-user-circle-o text-secondary fa-lg pull-right"></i><br> User Management
+                </a>
+            </div>
+        
+            <div class="col mb-1">
+                <a class="btn btn-lg btn-danger  text-danger bg-Gray-Gray" style="width: 100%; height: 100%;"
+                   href="@Url.Action("Index", "Role", new { area = "Admin" })">
+                    <i class="fa fa-certificate text-secondary fa-lg pull-right"></i><br> Role Management
+                </a>
+            </div>
+        }
+    </div>
+</div>
+
+<section class="">
+    <div class="container">
+        <div class="section-title text-width">
+            <h2 class="text-danger">Dear colleague, good job!</h2>
+            <div class="bar"></div>
+        </div>
+
+        <div class="row align-items-center">
+            <div class="col-lg-6">
+                <div class="single-pricing-box top-1">
+                    <div class="pricing-header">
+                        <h3>Admin Panel </h3>
+                    </div>
+
+                    <div class="price">
+                        Admin Message
+                    </div>
+
+                    <ul class="pricing-features">
+                        <li>
+                            <i class="flaticon-check-mark"></i>
+                            Health.
+                        </li>
+                        <li>
+                            <i class="flaticon-check-mark"></i>
+                            Responsibility
+                        </li>
+                        <li>
+                            <i class="flaticon-check-mark"></i>
+
+                            Teamwork
+                        </li>
+                        <li>
+                            <i class="flaticon-check-mark"></i>
+                            Discipline
+                        </li>
+                        <li>
+                            <i class="flaticon-check-mark"></i>
+                            Being up-to-date
+                        </li>
+                        <li>
+                            <i class="flaticon-check-mark"></i>
+                            Creativity
+                        </li>
+                        <li>
+                            <i class="flaticon-check-mark"></i>
+                            Perseverance
+                        </li>
+                        <li>
+                            <i class="flaticon-check-mark"></i>
+                            Accuracy
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="features-image-warp">
+                    <img src="assets/img/about/about-1.png" alt="image">
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+@await Component.InvokeAsync("Slider")
+

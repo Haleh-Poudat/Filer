@@ -1,0 +1,65 @@
+﻿@model eBooks.ViewModel.Library.Ebook.EditEbookViewModel
+
+<section class="portfolio-area pb-70">
+    <div class="container">
+        <div class="section-title mb-4">
+                <h5 class="modal-title">Edit File  @Model.Title</h5>
+        </div>
+        <form id="editForm" asp-action="Edit" asp-controller="Library" asp-area="" autocomplete="off" enctype="multipart/form-data"
+              autocomplete="off"
+              data-ajax="true"
+              data-ajax-method="POST"
+              data-ajax-failure="AddOrEditLibraryOnFailure(xhr)"
+              data-ajax-success="EditOnSuccess(xhr,status,data,'Library-@Model.Id')">
+
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="portfolio-details-information">
+                            <div class="contact-form-inner">
+                                <div class="row">
+                                    <div class="col-lg-12 col-md-12">
+                                        <div class="form-group text-center">
+                                        </div>
+                                    </div>
+                                    <div class="modal-body">
+                                        <input type="hidden" nsp-for="Id" />
+                                        <div asp-validation-summary="ModelOnly" class="form-group text-center text-danger col-12"></div>
+                                        <div id="ErrorOnFailure" class="form-group text-center text-danger col-12"></div>
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <div class="form-group">
+                                                    <label class="control-label" asp-for="Title">Title</label>
+                                                    <input type="text" asp-for="Title" class="form-control" />
+                                                    <span asp-validation-for="Title" class="text-danger"></span>
+
+                                                </div>
+                                                <div class="form-group">
+                                                    <label class="control-label" asp-for="File">File</label>
+                                                    <input id="fileInput" type="file" asp-for="File" multiple="multiple" class="file-input-upload" accept=".pdf,.docx,.xlsx,.pptx,.tiff,.jpg,.jpeg,.bmp" />
+                                                    <br />
+                                                    <span asp-validation-for="File" class="text-danger"></span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="modal-footer">
+                                        <button type="submit" id="editButton" autocomplete="off" data-loading-text="Submitting information" class="btn btn-labeled btn-success">
+                                            <b><i class="fa fa-check-square-o"></i></b> Edit
+                                        </button>
+                                        <button type="button" class="btn btn-labeled btn-primary" data-bs-dismiss="modal" aria-hidden="true">
+                                            <b><i class="fa fa-arrow-right"></i></b> Cancel
+                                        </button>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </form>
+    </div>
+</section>
+

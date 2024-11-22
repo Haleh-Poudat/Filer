@@ -1,0 +1,1031 @@
+2024-07-10 00:54:53.9132 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-10 00:54:54.0341 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-10 00:54:54.0804 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-10 00:54:54.1193 Info Configuration initialized.
+2024-07-10 00:54:57.2185 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-10 01:06:55.1258 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-10 01:06:55.2153 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-10 01:06:55.3721 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-10 01:06:55.4046 Info Configuration initialized.
+2024-07-10 01:07:03.6170 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-10 01:25:07.4348 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-10 01:25:07.4725 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-10 01:25:07.5110 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-10 01:25:07.5410 Info Configuration initialized.
+2024-07-10 01:25:09.7666 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-10 01:51:18.8696 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-10 01:51:18.9077 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-10 01:51:18.9488 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-10 01:51:18.9965 Info Configuration initialized.
+2024-07-10 01:51:21.1136 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-10 02:17:15.9416 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-10 02:17:15.9805 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-10 02:17:16.0187 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-10 02:17:16.0650 Info Configuration initialized.
+2024-07-10 02:17:18.7130 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-10 02:18:12.1570 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-10 02:18:12.2086 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-10 02:18:12.2643 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-10 02:18:12.3090 Info Configuration initialized.
+2024-07-10 02:18:14.5116 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-10 02:30:08.8757 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-10 02:30:08.9412 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-10 02:30:09.0174 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-10 02:30:09.0774 Info Configuration initialized.
+2024-07-10 02:30:11.1358 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-10 09:20:00.7950 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-10 09:20:00.8717 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-10 09:20:01.0319 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-10 09:20:01.1050 Info Configuration initialized.
+2024-07-10 09:20:08.6380 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-10 10:02:00.8745 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-10 10:02:00.9158 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-10 10:02:00.9579 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-10 10:02:00.9890 Info Configuration initialized.
+2024-07-10 10:02:02.6915 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-10 10:54:06.0661 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-10 10:54:06.1060 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-10 10:54:06.1474 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-10 10:54:06.1798 Info Configuration initialized.
+2024-07-10 10:54:08.1409 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-10 11:29:21.2521 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-10 11:29:21.2937 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-10 11:29:21.3376 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-10 11:29:21.3739 Info Configuration initialized.
+2024-07-10 11:29:24.2470 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-10 13:11:59.9873 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-10 13:12:00.1124 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-10 13:12:00.1861 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-10 13:12:00.2568 Info Configuration initialized.
+2024-07-10 13:12:03.6805 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-10 13:13:46.7686 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-10 13:13:46.8394 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-10 13:13:46.9093 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-10 13:13:46.9656 Info Configuration initialized.
+2024-07-10 13:13:50.7291 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-10 13:15:04.2332 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-10 13:15:04.4008 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-10 13:15:04.4659 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-10 13:15:04.5311 Info Configuration initialized.
+2024-07-10 13:15:07.9080 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-10 13:19:56.7045 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-10 13:19:56.7809 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-10 13:19:56.8513 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-10 13:19:56.9145 Info Configuration initialized.
+2024-07-10 13:20:00.4191 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-10 13:23:24.5500 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-10 13:23:24.6140 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-10 13:23:24.6798 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-10 13:23:24.7495 Info Configuration initialized.
+2024-07-10 13:23:28.0840 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-10 13:26:03.4089 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-10 13:26:03.4935 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-10 13:26:03.5635 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-10 13:26:03.6311 Info Configuration initialized.
+2024-07-10 13:26:07.2109 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-10 14:33:07.1101 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-10 14:33:07.2375 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-10 14:33:07.3558 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-10 14:33:07.4159 Info Configuration initialized.
+2024-07-10 14:33:12.4209 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-12 10:06:50.1651 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-12 10:06:50.2501 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-12 10:06:50.3848 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-12 10:06:50.4287 Info Configuration initialized.
+2024-07-12 10:06:59.1109 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-12 10:13:47.8343 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-12 10:13:47.9130 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-12 10:13:47.9801 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-12 10:13:48.0304 Info Configuration initialized.
+2024-07-12 10:13:51.8784 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-12 11:28:55.5210 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-12 11:28:55.5734 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-12 11:28:55.6451 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-12 11:28:55.6646 Info Configuration initialized.
+2024-07-12 11:28:59.3085 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-12 11:30:23.3413 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-12 11:30:23.3720 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-12 11:30:23.4042 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-12 11:30:23.4319 Info Configuration initialized.
+2024-07-12 11:30:24.5619 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-12 11:39:30.7842 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-12 11:39:30.8236 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-12 11:39:30.8651 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-12 11:39:30.8935 Info Configuration initialized.
+2024-07-12 11:39:32.5416 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-12 11:48:31.1934 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-12 11:48:31.2297 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-12 11:48:31.2698 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-12 11:48:31.3009 Info Configuration initialized.
+2024-07-12 11:48:32.6393 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-12 12:56:20.0006 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-12 12:56:20.0224 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-12 12:56:20.0474 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-12 12:56:20.0665 Info Configuration initialized.
+2024-07-12 12:56:21.4001 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-12 13:12:54.0396 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-12 13:12:54.0769 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-12 13:12:54.1112 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-12 13:12:54.1429 Info Configuration initialized.
+2024-07-12 13:12:55.4058 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-12 13:38:13.5896 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-12 13:38:13.6286 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-12 13:38:13.6707 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-12 13:38:13.7127 Info Configuration initialized.
+2024-07-12 13:38:15.4651 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-13 08:31:41.7831 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-13 08:31:41.8019 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-13 08:31:41.8203 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-13 08:31:41.8387 Info Configuration initialized.
+2024-07-13 08:31:42.1515 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-13 08:31:42.2135 Info Shutdown() called. Logger closing...
+2024-07-13 08:31:42.2135 Info Closing old configuration.
+2024-07-13 08:31:42.2559 Info Logger has been closed down.
+2024-07-13 08:32:25.4748 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-13 08:32:25.4921 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-13 08:32:25.5068 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-13 08:32:25.5232 Info Configuration initialized.
+2024-07-13 08:32:25.8763 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-13 08:32:25.9345 Info Shutdown() called. Logger closing...
+2024-07-13 08:32:25.9345 Info Closing old configuration.
+2024-07-13 08:32:25.9762 Info Logger has been closed down.
+2024-07-13 08:35:08.3404 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-13 08:35:08.3894 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-13 08:35:08.4403 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-13 08:35:08.4975 Info Configuration initialized.
+2024-07-13 08:35:13.2938 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-13 08:35:20.0522 Info Shutdown() called. Logger closing...
+2024-07-13 08:35:20.0522 Info Closing old configuration.
+2024-07-13 08:35:20.0913 Info Logger has been closed down.
+2024-07-13 08:38:56.9328 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-13 08:38:56.9533 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-13 08:38:56.9706 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-13 08:38:56.9943 Info Configuration initialized.
+2024-07-13 08:38:57.3330 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-13 08:38:57.3803 Info Shutdown() called. Logger closing...
+2024-07-13 08:38:57.3803 Info Closing old configuration.
+2024-07-13 08:38:57.4196 Info Logger has been closed down.
+2024-07-13 08:39:18.3357 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-13 08:39:18.3565 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-13 08:39:18.3755 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-13 08:39:18.3955 Info Configuration initialized.
+2024-07-13 08:39:18.7239 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-13 08:39:18.7800 Info Shutdown() called. Logger closing...
+2024-07-13 08:39:18.7800 Info Closing old configuration.
+2024-07-13 08:39:18.8168 Info Logger has been closed down.
+2024-07-13 08:40:35.6111 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-13 08:40:35.6304 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-13 08:40:35.6451 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-13 08:40:35.6702 Info Configuration initialized.
+2024-07-13 08:40:36.0246 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-13 08:40:36.0895 Info Shutdown() called. Logger closing...
+2024-07-13 08:40:36.0895 Info Closing old configuration.
+2024-07-13 08:40:36.1251 Info Logger has been closed down.
+2024-07-13 08:40:46.6409 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-13 08:40:46.6680 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-13 08:40:46.6947 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-13 08:40:46.7285 Info Configuration initialized.
+2024-07-13 08:40:47.2419 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-13 08:40:47.2979 Info Shutdown() called. Logger closing...
+2024-07-13 08:40:47.2979 Info Closing old configuration.
+2024-07-13 08:40:47.3478 Info Logger has been closed down.
+2024-07-13 08:41:24.5975 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-13 08:41:24.6524 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-13 08:41:24.7146 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-13 08:41:24.7664 Info Configuration initialized.
+2024-07-13 08:41:27.4283 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-13 08:59:07.6101 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-13 08:59:07.6795 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-13 08:59:07.7348 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-13 08:59:07.7820 Info Configuration initialized.
+2024-07-13 08:59:12.0759 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-13 09:14:45.6031 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-13 09:14:45.6195 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-13 09:14:45.6195 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-13 09:14:45.6467 Info Configuration initialized.
+2024-07-13 09:14:45.8944 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-13 09:14:45.9350 Info Shutdown() called. Logger closing...
+2024-07-13 09:14:45.9350 Info Closing old configuration.
+2024-07-13 09:14:45.9623 Info Logger has been closed down.
+2024-07-13 09:15:03.3885 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-13 09:15:03.4081 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-13 09:15:03.4246 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-13 09:15:03.4387 Info Configuration initialized.
+2024-07-13 09:15:03.7124 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-13 09:15:03.7544 Info Shutdown() called. Logger closing...
+2024-07-13 09:15:03.7544 Info Closing old configuration.
+2024-07-13 09:15:03.7936 Info Logger has been closed down.
+2024-07-13 09:15:47.6797 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-13 09:15:47.7257 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-13 09:15:47.7677 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-13 09:15:47.8048 Info Configuration initialized.
+2024-07-13 09:15:49.8168 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-13 09:41:33.7374 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-13 09:41:33.8216 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-13 09:41:33.8979 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-13 09:41:33.9551 Info Configuration initialized.
+2024-07-13 09:41:36.7274 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-13 09:54:37.1818 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-13 09:54:37.2350 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-13 09:54:37.2811 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-13 09:54:37.3199 Info Configuration initialized.
+2024-07-13 09:54:39.5169 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-13 09:55:04.8124 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-13 09:55:04.8533 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-13 09:55:04.9056 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-13 09:55:05.0837 Info Configuration initialized.
+2024-07-13 09:55:07.6256 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-13 10:18:15.9343 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-13 10:18:15.9784 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-13 10:18:16.0238 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-13 10:18:16.0607 Info Configuration initialized.
+2024-07-13 10:18:18.0913 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-13 10:30:45.3150 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-13 10:30:45.3839 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-13 10:30:45.4403 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-13 10:30:45.4893 Info Configuration initialized.
+2024-07-13 10:30:49.0435 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-13 10:33:25.9675 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-13 10:33:26.0104 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-13 10:33:26.0611 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-13 10:33:26.0971 Info Configuration initialized.
+2024-07-13 10:33:28.6270 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-13 10:52:01.0030 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-13 10:52:01.0543 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-13 10:52:01.1142 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-13 10:52:01.1561 Info Configuration initialized.
+2024-07-13 10:52:03.0751 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-13 12:07:08.2227 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-13 12:07:08.2692 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-13 12:07:08.3410 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-13 12:07:08.3980 Info Configuration initialized.
+2024-07-13 12:07:14.1256 Info Shutdown() called. Logger closing...
+2024-07-13 12:07:14.1256 Info Closing old configuration.
+2024-07-13 12:07:14.1783 Info Logger has been closed down.
+2024-07-13 12:31:13.6852 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-13 12:31:13.7458 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-13 12:31:13.8417 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-13 12:31:13.8741 Info Configuration initialized.
+2024-07-13 12:31:21.7914 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-13 12:32:10.0197 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-13 12:32:10.0639 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-13 12:32:10.1096 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-13 12:32:10.1419 Info Configuration initialized.
+2024-07-13 12:32:11.6523 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-13 13:42:21.1644 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-13 13:42:21.2081 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-13 13:42:21.2530 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-13 13:42:21.3010 Info Configuration initialized.
+2024-07-13 13:42:23.5014 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-13 14:10:10.3129 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-13 14:10:10.4512 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-13 14:10:10.4948 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-13 14:10:10.5296 Info Configuration initialized.
+2024-07-13 14:10:12.5441 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-13 20:59:23.2532 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-13 20:59:23.3059 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-13 20:59:23.3592 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-13 20:59:23.4155 Info Configuration initialized.
+2024-07-13 20:59:27.4495 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-13 21:31:23.3772 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-13 21:31:23.4460 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-13 21:31:23.5076 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-13 21:31:23.5668 Info Configuration initialized.
+2024-07-13 21:31:26.0084 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-13 21:35:58.8049 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-13 21:35:58.8570 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-13 21:35:58.9135 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-13 21:35:58.9630 Info Configuration initialized.
+2024-07-13 21:36:02.2109 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-13 22:23:45.7244 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-13 22:23:45.7870 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-13 22:23:45.8384 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-13 22:23:45.8880 Info Configuration initialized.
+2024-07-13 22:23:48.2072 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-13 22:25:46.2090 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-13 22:25:46.2796 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-13 22:25:46.3526 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-13 22:25:46.4106 Info Configuration initialized.
+2024-07-13 22:25:49.1184 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-13 22:35:41.1077 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-13 22:35:41.1722 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-13 22:35:41.2442 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-13 22:35:41.2989 Info Configuration initialized.
+2024-07-13 22:35:43.7847 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-13 22:36:44.2621 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-13 22:36:44.3064 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-13 22:36:44.3551 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-13 22:36:44.3910 Info Configuration initialized.
+2024-07-13 22:36:46.5869 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-14 00:04:16.2252 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-14 00:04:16.2818 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-14 00:04:16.3489 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-14 00:04:16.4071 Info Configuration initialized.
+2024-07-14 00:04:21.5083 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-14 00:29:06.8725 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-14 00:29:06.9249 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-14 00:29:06.9696 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-14 00:29:07.0080 Info Configuration initialized.
+2024-07-14 00:29:09.2271 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-14 12:03:16.3877 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-14 12:03:16.4319 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-14 12:03:16.4736 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-14 12:03:16.5023 Info Configuration initialized.
+2024-07-14 12:03:19.7821 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-14 12:14:08.5430 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-14 12:14:08.5917 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-14 12:14:08.8319 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-14 12:14:08.8730 Info Configuration initialized.
+2024-07-14 12:14:11.0841 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-14 12:18:27.1768 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-14 12:18:27.2123 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-14 12:18:27.2550 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-14 12:18:27.2897 Info Configuration initialized.
+2024-07-14 12:18:29.3813 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-14 12:21:35.4694 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-14 12:21:35.5092 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-14 12:21:35.5500 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-14 12:21:35.5888 Info Configuration initialized.
+2024-07-14 12:21:37.6154 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-14 12:24:05.7792 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-14 12:24:05.8188 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-14 12:24:05.8640 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-14 12:24:05.9047 Info Configuration initialized.
+2024-07-14 12:24:07.9153 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-14 12:29:21.3762 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-14 12:29:21.4140 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-14 12:29:21.4593 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-14 12:29:21.4986 Info Configuration initialized.
+2024-07-14 12:29:23.4930 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-14 12:30:55.4386 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-14 12:30:55.5238 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-14 12:30:55.5794 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-14 12:30:55.6120 Info Configuration initialized.
+2024-07-14 12:30:57.5950 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-14 12:34:47.1818 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-14 12:34:47.2244 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-14 12:34:47.2671 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-14 12:34:47.3027 Info Configuration initialized.
+2024-07-14 12:34:49.1997 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-14 12:43:59.3344 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-14 12:43:59.3704 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-14 12:43:59.4076 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-14 12:43:59.4376 Info Configuration initialized.
+2024-07-14 12:44:01.4111 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-14 12:45:48.0865 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-14 12:45:48.1294 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-14 12:45:48.1706 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-14 12:45:48.2071 Info Configuration initialized.
+2024-07-14 12:45:50.0261 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-14 13:13:53.1013 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-14 13:13:53.1480 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-14 13:13:53.1925 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-14 13:13:53.2448 Info Configuration initialized.
+2024-07-14 13:13:55.5722 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-14 13:19:06.5993 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-14 13:19:06.6358 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-14 13:19:06.8566 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-14 13:19:06.9133 Info Configuration initialized.
+2024-07-14 13:19:08.7441 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-14 13:23:54.4734 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-14 13:23:54.6010 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-14 13:23:54.6428 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-14 13:23:54.6774 Info Configuration initialized.
+2024-07-14 13:23:56.6019 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-14 13:33:46.2356 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-14 13:33:46.2723 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-14 13:33:46.3121 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-14 13:33:46.3480 Info Configuration initialized.
+2024-07-14 13:33:48.1947 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-14 13:40:34.2790 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-14 13:40:34.3069 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-14 13:40:34.3381 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-14 13:40:34.3654 Info Configuration initialized.
+2024-07-14 13:40:36.0433 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-14 13:53:24.6703 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-14 13:53:24.7409 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-14 13:53:24.7813 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-14 13:53:24.8201 Info Configuration initialized.
+2024-07-14 13:53:26.9166 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-18 07:27:28.7676 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-18 07:27:28.8127 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-18 07:27:28.8542 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-18 07:27:28.8869 Info Configuration initialized.
+2024-07-18 07:27:32.0260 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-18 07:32:28.1912 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-18 07:32:28.2412 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-18 07:32:28.2913 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-18 07:32:28.3272 Info Configuration initialized.
+2024-07-18 07:32:30.0756 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-18 07:40:39.5097 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-18 07:40:39.5462 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-18 07:40:39.5845 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-18 07:40:39.6171 Info Configuration initialized.
+2024-07-18 07:40:41.4684 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-18 07:46:30.4535 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-18 07:46:30.4902 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-18 07:46:30.5336 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-18 07:46:30.5696 Info Configuration initialized.
+2024-07-18 07:46:32.9245 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-18 07:56:42.8013 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-18 07:56:42.8464 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-18 07:56:42.8861 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-18 07:56:42.9228 Info Configuration initialized.
+2024-07-18 07:56:45.2528 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-18 11:27:08.4275 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-18 11:27:08.4904 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-18 11:27:08.5498 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-18 11:27:08.6046 Info Configuration initialized.
+2024-07-18 11:27:14.5570 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-18 12:36:07.6832 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-18 12:36:07.7053 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-18 12:36:07.7302 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-18 12:36:07.7515 Info Configuration initialized.
+2024-07-18 12:36:08.8614 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-18 12:44:58.1544 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-18 12:44:58.1854 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-18 12:44:58.2196 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-18 12:44:58.2465 Info Configuration initialized.
+2024-07-18 12:44:59.4675 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-18 13:03:26.8866 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-18 13:03:26.9275 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-18 13:03:27.0225 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-18 13:03:27.0485 Info Configuration initialized.
+2024-07-18 13:03:34.2256 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-18 13:45:59.4127 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-18 13:45:59.4372 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-18 13:45:59.4645 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-18 13:45:59.4850 Info Configuration initialized.
+2024-07-18 13:46:00.8053 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-18 13:47:06.7427 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-18 13:47:06.7628 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-18 13:47:06.7857 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-18 13:47:06.8030 Info Configuration initialized.
+2024-07-18 13:47:07.8361 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-18 14:39:48.6187 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-18 14:39:48.6892 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-18 14:39:48.7571 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-18 14:39:48.8149 Info Configuration initialized.
+2024-07-18 14:39:54.2608 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-18 17:22:28.3660 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-18 17:22:28.4097 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-18 17:22:28.4593 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-18 17:22:28.5008 Info Configuration initialized.
+2024-07-18 17:22:31.6992 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-18 17:25:35.2802 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-18 17:25:35.5905 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-18 17:25:35.6948 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-18 17:25:35.7690 Info Configuration initialized.
+2024-07-18 17:25:40.7924 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-18 17:42:16.9188 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-18 17:42:16.9997 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-18 17:42:17.0780 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-18 17:42:17.1487 Info Configuration initialized.
+2024-07-18 17:42:21.3278 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-18 17:52:38.1899 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-18 17:52:38.2288 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-18 17:52:38.2766 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-18 17:52:38.3209 Info Configuration initialized.
+2024-07-18 17:52:40.1471 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-18 18:16:37.4743 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-18 18:16:37.5325 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-18 18:16:37.5723 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-18 18:16:37.6091 Info Configuration initialized.
+2024-07-18 18:16:41.4846 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-18 18:24:02.6528 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-18 18:24:02.7134 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-18 18:24:02.7544 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-18 18:24:02.7922 Info Configuration initialized.
+2024-07-18 18:24:04.8702 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-18 18:50:20.9719 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-18 18:50:21.0668 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-18 18:50:21.1038 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-18 18:50:21.1458 Info Configuration initialized.
+2024-07-18 18:50:23.2396 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-20 08:54:14.6762 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-20 08:54:14.7284 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-20 08:54:14.7878 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-20 08:54:14.8482 Info Configuration initialized.
+2024-07-20 08:54:23.1831 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-20 09:14:09.6706 Warn Exception in NLog.LayoutRenderers.ExceptionLayoutRenderer.AppendToString(): System.TypeLoadException. Exception: System.TypeLoadException: Could not resolve type 'AspNetCoreGeneratedDocument.Areas_Admin_Views_User_Index' in assembly 'eBooks.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+   at System.Reflection.TypeNameParser.GetTypeFromDefaultAssemblies(String typeName, ReadOnlySpan`1 nestedTypeNames)
+   at System.Reflection.TypeNameParser.GetType(String typeName, ReadOnlySpan`1 nestedTypeNames, String assemblyNameIfAny)
+   at System.Reflection.TypeNameParser.NestedNamespaceTypeName.ResolveType(TypeNameParser& parser, String containingAssemblyIfAny)
+   at System.Reflection.TypeNameParser.GetTypeHelper(Char* pTypeName, RuntimeAssembly requestingAssembly, Boolean throwOnError, Boolean requireAssemblyQualifiedName)
+   at System.Reflection.CustomAttribute._CreateCaObject(RuntimeModule pModule, RuntimeType type, IRuntimeMethodInfo pCtor, Byte** ppBlob, Byte* pEndBlob, Int32* pcNamedArgs)
+   at System.Reflection.CustomAttribute.AddCustomAttributes(ListBuilder`1& attributes, RuntimeModule decoratedModule, Int32 decoratedMetadataToken, RuntimeType attributeFilterType, Boolean mustBeInheritable, ListBuilder`1 derivedAttributes)
+   at System.Reflection.CustomAttribute.GetCustomAttributes(RuntimeModule decoratedModule, Int32 decoratedMetadataToken, Int32 pcaCount, RuntimeType attributeFilterType)
+   at System.Reflection.CustomAttribute.GetCustomAttributes(RuntimeMethodInfo method, RuntimeType caType, Boolean inherit)
+   at System.Attribute.GetCustomAttributes(MemberInfo element, Type attributeType, Boolean inherit)
+   at System.Diagnostics.StackTrace.TryResolveStateMachineMethod(MethodBase& method, Type& declaringType)
+   at System.Diagnostics.StackTrace.ToString(TraceFormat traceFormat, StringBuilder sb)
+   at System.Diagnostics.StackTrace.ToString(TraceFormat traceFormat)
+   at System.Exception.get_StackTrace()
+   at System.Exception.ToString()
+   at NLog.LayoutRenderers.ExceptionLayoutRenderer.AppendToString(StringBuilder sb, Exception ex)
+2024-07-20 09:14:10.7515 Warn Exception in NLog.LayoutRenderers.ExceptionLayoutRenderer.AppendToString(): System.TypeLoadException. Exception: System.TypeLoadException: Could not resolve type 'AspNetCoreGeneratedDocument.Areas_Admin_Views_User_Index' in assembly 'eBooks.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+   at System.Reflection.TypeNameParser.GetTypeFromDefaultAssemblies(String typeName, ReadOnlySpan`1 nestedTypeNames)
+   at System.Reflection.TypeNameParser.GetType(String typeName, ReadOnlySpan`1 nestedTypeNames, String assemblyNameIfAny)
+   at System.Reflection.TypeNameParser.NestedNamespaceTypeName.ResolveType(TypeNameParser& parser, String containingAssemblyIfAny)
+   at System.Reflection.TypeNameParser.GetTypeHelper(Char* pTypeName, RuntimeAssembly requestingAssembly, Boolean throwOnError, Boolean requireAssemblyQualifiedName)
+   at System.Reflection.CustomAttribute._CreateCaObject(RuntimeModule pModule, RuntimeType type, IRuntimeMethodInfo pCtor, Byte** ppBlob, Byte* pEndBlob, Int32* pcNamedArgs)
+   at System.Reflection.CustomAttribute.AddCustomAttributes(ListBuilder`1& attributes, RuntimeModule decoratedModule, Int32 decoratedMetadataToken, RuntimeType attributeFilterType, Boolean mustBeInheritable, ListBuilder`1 derivedAttributes)
+   at System.Reflection.CustomAttribute.GetCustomAttributes(RuntimeModule decoratedModule, Int32 decoratedMetadataToken, Int32 pcaCount, RuntimeType attributeFilterType)
+   at System.Reflection.CustomAttribute.GetCustomAttributes(RuntimeMethodInfo method, RuntimeType caType, Boolean inherit)
+   at System.Attribute.GetCustomAttributes(MemberInfo element, Type attributeType, Boolean inherit)
+   at System.Diagnostics.StackTrace.TryResolveStateMachineMethod(MethodBase& method, Type& declaringType)
+   at System.Diagnostics.StackTrace.ToString(TraceFormat traceFormat, StringBuilder sb)
+   at System.Diagnostics.StackTrace.ToString(TraceFormat traceFormat)
+   at System.Exception.get_StackTrace()
+   at System.Exception.ToString()
+   at NLog.LayoutRenderers.ExceptionLayoutRenderer.AppendToString(StringBuilder sb, Exception ex)
+2024-07-20 09:14:12.5002 Warn Exception in NLog.LayoutRenderers.ExceptionLayoutRenderer.AppendToString(): System.TypeLoadException. Exception: System.TypeLoadException: Could not resolve type 'AspNetCoreGeneratedDocument.Areas_Admin_Views_User_Index' in assembly 'eBooks.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'.
+   at System.Reflection.TypeNameParser.GetTypeFromDefaultAssemblies(String typeName, ReadOnlySpan`1 nestedTypeNames)
+   at System.Reflection.TypeNameParser.GetType(String typeName, ReadOnlySpan`1 nestedTypeNames, String assemblyNameIfAny)
+   at System.Reflection.TypeNameParser.NestedNamespaceTypeName.ResolveType(TypeNameParser& parser, String containingAssemblyIfAny)
+   at System.Reflection.TypeNameParser.GetTypeHelper(Char* pTypeName, RuntimeAssembly requestingAssembly, Boolean throwOnError, Boolean requireAssemblyQualifiedName)
+   at System.Reflection.CustomAttribute._CreateCaObject(RuntimeModule pModule, RuntimeType type, IRuntimeMethodInfo pCtor, Byte** ppBlob, Byte* pEndBlob, Int32* pcNamedArgs)
+   at System.Reflection.CustomAttribute.AddCustomAttributes(ListBuilder`1& attributes, RuntimeModule decoratedModule, Int32 decoratedMetadataToken, RuntimeType attributeFilterType, Boolean mustBeInheritable, ListBuilder`1 derivedAttributes)
+   at System.Reflection.CustomAttribute.GetCustomAttributes(RuntimeModule decoratedModule, Int32 decoratedMetadataToken, Int32 pcaCount, RuntimeType attributeFilterType)
+   at System.Reflection.CustomAttribute.GetCustomAttributes(RuntimeMethodInfo method, RuntimeType caType, Boolean inherit)
+   at System.Attribute.GetCustomAttributes(MemberInfo element, Type attributeType, Boolean inherit)
+   at System.Diagnostics.StackTrace.TryResolveStateMachineMethod(MethodBase& method, Type& declaringType)
+   at System.Diagnostics.StackTrace.ToString(TraceFormat traceFormat, StringBuilder sb)
+   at System.Diagnostics.StackTrace.ToString(TraceFormat traceFormat)
+   at System.Exception.get_StackTrace()
+   at System.Exception.ToString()
+   at NLog.LayoutRenderers.ExceptionLayoutRenderer.AppendToString(StringBuilder sb, Exception ex)
+2024-07-20 09:58:39.1034 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-20 09:58:39.1651 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-20 09:58:39.2728 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-20 09:58:39.2999 Info Configuration initialized.
+2024-07-20 09:58:44.5282 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-20 10:57:27.0271 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-20 10:57:27.0671 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-20 10:57:27.1206 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-20 10:57:27.1640 Info Configuration initialized.
+2024-07-20 10:57:29.7611 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-20 11:12:49.9695 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-20 11:12:50.0056 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-20 11:12:50.0522 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-20 11:12:50.0842 Info Configuration initialized.
+2024-07-20 11:12:52.0902 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-20 13:08:33.4925 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-20 13:08:33.5275 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-20 13:08:33.5718 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-20 13:08:33.6081 Info Configuration initialized.
+2024-07-20 13:08:37.6610 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-20 13:42:21.4489 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-20 13:42:21.5046 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-20 13:42:21.6331 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-20 13:42:21.6876 Info Configuration initialized.
+2024-07-20 13:42:25.0455 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 00:31:28.3466 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-21 00:31:28.5690 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-21 00:31:28.6430 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 00:31:28.7077 Info Configuration initialized.
+2024-07-21 00:31:37.1733 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 09:30:05.9948 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-21 09:30:06.0309 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-21 09:30:06.1066 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 09:30:06.1389 Info Configuration initialized.
+2024-07-21 09:30:11.4875 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 09:52:24.7930 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-21 09:52:24.8458 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-21 09:52:24.8951 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 09:52:24.9294 Info Configuration initialized.
+2024-07-21 09:52:26.8636 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 09:58:50.6624 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-21 09:58:50.7069 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-21 09:58:50.7557 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 09:58:50.7913 Info Configuration initialized.
+2024-07-21 09:58:52.5643 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 10:13:21.2094 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-21 10:13:21.2901 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-21 10:13:21.3508 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 10:13:21.3903 Info Configuration initialized.
+2024-07-21 10:13:23.5185 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 10:13:25.2719 Info Shutdown() called. Logger closing...
+2024-07-21 10:13:25.2719 Info Closing old configuration.
+2024-07-21 10:13:25.3091 Info Logger has been closed down.
+2024-07-21 10:22:00.1975 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-21 10:22:00.2430 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-21 10:22:00.2838 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 10:22:00.3198 Info Configuration initialized.
+2024-07-21 10:22:02.6379 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 10:26:07.4839 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-21 10:26:07.5243 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-21 10:26:07.5736 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 10:26:07.6111 Info Configuration initialized.
+2024-07-21 10:26:10.0669 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 10:29:24.0742 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-21 10:29:24.0991 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-21 10:29:24.1172 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 10:29:24.1393 Info Configuration initialized.
+2024-07-21 10:29:24.5177 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 10:29:24.5761 Info Shutdown() called. Logger closing...
+2024-07-21 10:29:24.5761 Info Closing old configuration.
+2024-07-21 10:29:24.6204 Info Logger has been closed down.
+2024-07-21 10:29:48.7059 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-21 10:29:48.7223 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-21 10:29:48.7363 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 10:29:48.7558 Info Configuration initialized.
+2024-07-21 10:29:49.0653 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 10:29:49.1196 Info Shutdown() called. Logger closing...
+2024-07-21 10:29:49.1196 Info Closing old configuration.
+2024-07-21 10:29:49.1662 Info Logger has been closed down.
+2024-07-21 10:32:00.6097 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-21 10:32:00.6309 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-21 10:32:00.6479 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 10:32:00.6626 Info Configuration initialized.
+2024-07-21 10:32:01.0249 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 10:32:01.0859 Info Shutdown() called. Logger closing...
+2024-07-21 10:32:01.0859 Info Closing old configuration.
+2024-07-21 10:32:01.1854 Info Logger has been closed down.
+2024-07-21 10:32:25.8790 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-21 10:32:25.8790 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-21 10:32:25.9088 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 10:32:25.9274 Info Configuration initialized.
+2024-07-21 10:32:26.1836 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 10:32:26.2318 Info Shutdown() called. Logger closing...
+2024-07-21 10:32:26.2318 Info Closing old configuration.
+2024-07-21 10:32:26.2680 Info Logger has been closed down.
+2024-07-21 10:36:58.2480 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-21 10:36:58.2627 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-21 10:36:58.2801 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 10:36:58.2943 Info Configuration initialized.
+2024-07-21 10:36:58.5996 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 10:36:58.6495 Info Shutdown() called. Logger closing...
+2024-07-21 10:36:58.6495 Info Closing old configuration.
+2024-07-21 10:36:58.6855 Info Logger has been closed down.
+2024-07-21 10:37:18.8928 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-21 10:37:18.9082 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-21 10:37:18.9226 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 10:37:18.9372 Info Configuration initialized.
+2024-07-21 10:37:19.2964 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 10:37:19.3527 Info Shutdown() called. Logger closing...
+2024-07-21 10:37:19.3527 Info Closing old configuration.
+2024-07-21 10:37:19.4111 Info Logger has been closed down.
+2024-07-21 10:37:47.6681 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-21 10:37:47.7405 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-21 10:37:47.7724 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 10:37:47.8142 Info Configuration initialized.
+2024-07-21 10:37:48.2459 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 10:37:48.3004 Info Shutdown() called. Logger closing...
+2024-07-21 10:37:48.3053 Info Closing old configuration.
+2024-07-21 10:37:48.3776 Info Logger has been closed down.
+2024-07-21 10:38:18.5830 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-21 10:38:18.6417 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-21 10:38:18.6815 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 10:38:18.7167 Info Configuration initialized.
+2024-07-21 10:38:20.2565 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 10:48:50.4966 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-21 10:48:50.5237 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-21 10:48:50.5463 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 10:48:50.5693 Info Configuration initialized.
+2024-07-21 10:48:50.9984 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 10:48:51.0669 Info Shutdown() called. Logger closing...
+2024-07-21 10:48:51.0669 Info Closing old configuration.
+2024-07-21 10:48:51.1356 Info Logger has been closed down.
+2024-07-21 10:49:12.9284 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-21 10:49:12.9429 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-21 10:49:12.9586 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 10:49:12.9761 Info Configuration initialized.
+2024-07-21 10:49:13.2994 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 10:49:13.3489 Info Shutdown() called. Logger closing...
+2024-07-21 10:49:13.3489 Info Closing old configuration.
+2024-07-21 10:49:13.4062 Info Logger has been closed down.
+2024-07-21 10:49:34.7379 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-21 10:49:34.7601 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-21 10:49:34.7789 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 10:49:34.7974 Info Configuration initialized.
+2024-07-21 10:49:35.0968 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 10:49:35.1546 Info Shutdown() called. Logger closing...
+2024-07-21 10:49:35.1546 Info Closing old configuration.
+2024-07-21 10:49:35.1986 Info Logger has been closed down.
+2024-07-21 10:50:05.1927 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-21 10:50:05.2064 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-21 10:50:05.2064 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 10:50:05.2366 Info Configuration initialized.
+2024-07-21 10:50:05.4892 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 10:50:05.5415 Info Shutdown() called. Logger closing...
+2024-07-21 10:50:05.5415 Info Closing old configuration.
+2024-07-21 10:50:05.5803 Info Logger has been closed down.
+2024-07-21 10:50:35.9516 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-21 10:50:35.9985 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-21 10:50:36.0717 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 10:50:36.1296 Info Configuration initialized.
+2024-07-21 10:50:38.9811 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 11:11:17.6232 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-21 11:11:17.7023 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-21 11:11:17.7539 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 11:11:17.7912 Info Configuration initialized.
+2024-07-21 11:11:19.8525 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 11:23:14.2906 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-21 11:23:14.3366 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-21 11:23:14.3877 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 11:23:14.4201 Info Configuration initialized.
+2024-07-21 11:23:16.4152 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 11:24:15.5692 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-21 11:24:15.6009 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-21 11:24:15.6403 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 11:24:15.6713 Info Configuration initialized.
+2024-07-21 11:24:17.3859 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 11:25:14.5887 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-21 11:25:14.6288 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-21 11:25:14.6832 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 11:25:14.7241 Info Configuration initialized.
+2024-07-21 11:25:17.0468 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 12:35:12.5466 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-21 12:35:12.5668 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-21 12:35:12.5837 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 12:35:12.6029 Info Configuration initialized.
+2024-07-21 12:35:12.9051 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 12:35:12.9462 Info Shutdown() called. Logger closing...
+2024-07-21 12:35:12.9462 Info Closing old configuration.
+2024-07-21 12:35:12.9852 Info Logger has been closed down.
+2024-07-21 12:35:59.5320 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-21 12:35:59.5738 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-21 12:35:59.6152 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 12:35:59.6484 Info Configuration initialized.
+2024-07-21 12:36:00.1276 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 12:36:00.1803 Info Shutdown() called. Logger closing...
+2024-07-21 12:36:00.1803 Info Closing old configuration.
+2024-07-21 12:36:00.2202 Info Logger has been closed down.
+2024-07-21 12:36:58.9740 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-21 12:36:59.0675 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-21 12:36:59.2007 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 12:36:59.2337 Info Configuration initialized.
+2024-07-21 12:37:05.7719 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 13:04:21.2217 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-21 13:04:21.2563 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-21 13:04:21.3040 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 13:04:21.3480 Info Configuration initialized.
+2024-07-21 13:04:21.8639 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 13:04:21.9809 Info Shutdown() called. Logger closing...
+2024-07-21 13:04:21.9809 Info Closing old configuration.
+2024-07-21 13:04:22.0473 Info Logger has been closed down.
+2024-07-21 13:04:51.4093 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-21 13:04:51.4340 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-21 13:04:51.4514 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 13:04:51.4724 Info Configuration initialized.
+2024-07-21 13:04:52.1096 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 13:04:52.1972 Info Shutdown() called. Logger closing...
+2024-07-21 13:04:52.1972 Info Closing old configuration.
+2024-07-21 13:04:52.2488 Info Logger has been closed down.
+2024-07-21 13:05:04.2852 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-21 13:05:04.3253 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-21 13:05:04.3637 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 13:05:04.3939 Info Configuration initialized.
+2024-07-21 13:05:06.2449 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 13:30:26.8596 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-21 13:30:26.8778 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-21 13:30:26.8943 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 13:30:26.9148 Info Configuration initialized.
+2024-07-21 13:30:27.1696 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 13:30:27.2107 Info Shutdown() called. Logger closing...
+2024-07-21 13:30:27.2107 Info Closing old configuration.
+2024-07-21 13:30:27.2503 Info Logger has been closed down.
+2024-07-21 13:30:52.2340 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-21 13:30:52.2729 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-21 13:30:52.3090 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 13:30:52.3389 Info Configuration initialized.
+2024-07-21 13:30:52.6693 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 13:30:52.7268 Info Shutdown() called. Logger closing...
+2024-07-21 13:30:52.7268 Info Closing old configuration.
+2024-07-21 13:30:52.7685 Info Logger has been closed down.
+2024-07-21 13:34:41.8323 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-21 13:34:41.8587 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-21 13:34:41.8733 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 13:34:41.8917 Info Configuration initialized.
+2024-07-21 13:34:42.2069 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 13:34:42.2645 Info Shutdown() called. Logger closing...
+2024-07-21 13:34:42.2645 Info Closing old configuration.
+2024-07-21 13:34:42.3099 Info Logger has been closed down.
+2024-07-21 13:35:07.4755 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-21 13:35:07.5308 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-21 13:35:07.5749 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 13:35:07.6458 Info Configuration initialized.
+2024-07-21 13:35:08.0569 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 13:35:08.1141 Info Shutdown() called. Logger closing...
+2024-07-21 13:35:08.1843 Info Closing old configuration.
+2024-07-21 13:35:08.2514 Info Logger has been closed down.
+2024-07-21 13:39:14.4690 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-21 13:39:14.5077 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-21 13:39:14.5485 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 13:39:14.5795 Info Configuration initialized.
+2024-07-21 13:39:17.1640 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 14:33:21.6407 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-21 14:33:21.6980 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-21 14:33:21.7367 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 14:33:21.7693 Info Configuration initialized.
+2024-07-21 14:33:24.0145 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 14:55:33.0764 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-21 14:55:33.2314 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-21 14:55:33.5011 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-21 14:55:33.7337 Info Configuration initialized.
+2024-07-21 14:55:39.4515 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-22 09:16:00.6566 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-22 09:16:00.7073 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-22 09:16:00.7979 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-22 09:16:00.8248 Info Configuration initialized.
+2024-07-22 09:16:06.5263 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-22 13:16:29.4608 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-22 13:16:29.4866 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-22 13:16:29.6246 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-22 13:16:29.6833 Info Configuration initialized.
+2024-07-22 13:16:30.2170 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-22 13:16:30.2958 Info Shutdown() called. Logger closing...
+2024-07-22 13:16:30.3298 Info Closing old configuration.
+2024-07-22 13:16:30.3916 Info Logger has been closed down.
+2024-07-22 13:17:26.3568 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-22 13:17:26.3774 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-22 13:17:26.3969 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-22 13:17:26.4196 Info Configuration initialized.
+2024-07-22 13:17:26.7616 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-22 13:17:26.8246 Info Shutdown() called. Logger closing...
+2024-07-22 13:17:26.8246 Info Closing old configuration.
+2024-07-22 13:17:26.8817 Info Logger has been closed down.
+2024-07-22 13:45:48.9251 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-22 13:45:48.9706 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-22 13:45:49.0185 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-22 13:45:49.0545 Info Configuration initialized.
+2024-07-22 13:45:52.4403 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-23 10:59:33.8942 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-23 10:59:33.9521 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-23 10:59:34.0111 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-23 10:59:34.0550 Info Configuration initialized.
+2024-07-23 10:59:39.3859 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-23 10:59:45.6080 Info Shutdown() called. Logger closing...
+2024-07-23 10:59:45.6080 Info Closing old configuration.
+2024-07-23 10:59:45.6518 Info Logger has been closed down.
+2024-07-23 11:02:05.9434 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-23 11:02:06.0285 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-23 11:02:06.0991 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-23 11:02:06.1583 Info Configuration initialized.
+2024-07-23 11:02:09.2908 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-27 19:54:00.3914 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-07-27 19:54:00.4606 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-27 19:54:00.5475 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-07-27 19:54:00.5760 Info Configuration initialized.
+2024-07-27 19:54:06.3745 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=C:\Users\Hp\Desktop\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-10-11 12:48:52.3425 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-10-11 12:48:52.3622 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-10-11 12:48:52.3785 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=D:\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-10-11 12:48:52.3984 Info Configuration initialized.
+2024-10-11 12:48:53.6283 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=D:\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-10-11 12:49:43.0631 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-10-11 12:49:43.0834 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-10-11 12:49:43.1014 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=D:\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-10-11 12:49:43.1171 Info Configuration initialized.
+2024-10-11 12:49:44.2375 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=D:\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-10-11 12:51:48.4831 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-10-11 12:51:48.5204 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-10-11 12:51:48.5451 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=D:\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-10-11 12:51:48.5654 Info Configuration initialized.
+2024-10-11 12:51:49.5245 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=D:\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-10-11 13:13:13.2434 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-10-11 13:13:13.2652 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-10-11 13:13:13.2957 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=D:\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-10-11 13:13:13.3206 Info Configuration initialized.
+2024-10-11 13:13:14.4628 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=D:\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-10-11 14:38:20.2787 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-10-11 14:38:20.3240 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-10-11 14:38:20.3723 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=D:\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-10-11 14:38:20.4116 Info Configuration initialized.
+2024-10-11 14:38:23.6096 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=D:\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-10-11 14:48:47.0642 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-10-11 14:48:47.0827 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-10-11 14:48:47.1055 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=D:\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-10-11 14:48:47.1231 Info Configuration initialized.
+2024-10-11 14:48:48.0799 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=D:\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-11-03 15:15:51.0602 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-11-03 15:15:51.0886 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-11-03 15:15:51.1174 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=D:\Projects\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-11-03 15:15:51.1406 Info Configuration initialized.
+2024-11-03 15:15:52.7853 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=D:\Projects\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-11-20 21:19:19.4269 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-11-20 21:19:19.4408 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-11-20 21:19:19.4519 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=D:\Projects\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-11-20 21:19:19.4519 Info Configuration initialized.
+2024-11-20 21:19:20.0817 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=D:\Projects\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-11-20 21:19:20.1312 Info Shutdown() called. Logger closing...
+2024-11-20 21:19:20.1312 Info Closing old configuration.
+2024-11-20 21:19:20.1504 Info Logger has been closed down.
+2024-11-20 21:19:44.0556 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-11-20 21:19:44.0670 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-11-20 21:19:44.0781 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=D:\Projects\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-11-20 21:19:44.0781 Info Configuration initialized.
+2024-11-20 21:19:44.2912 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=D:\Projects\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-11-20 21:19:44.3252 Info Shutdown() called. Logger closing...
+2024-11-20 21:19:44.3252 Info Closing old configuration.
+2024-11-20 21:19:44.3432 Info Logger has been closed down.
+2024-11-20 21:19:55.5623 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-11-20 21:19:55.5971 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-11-20 21:19:55.6277 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=D:\Projects\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-11-20 21:19:55.6523 Info Configuration initialized.
+2024-11-20 21:19:56.9273 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=D:\Projects\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-11-21 02:36:41.6944 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-11-21 02:36:41.7723 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-11-21 02:36:41.8234 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=E:\eBooks\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-11-21 02:36:41.8730 Info Configuration initialized.
+2024-11-21 02:36:48.7375 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=E:\eBooks\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-11-21 02:37:34.9636 Info Shutdown() called. Logger closing...
+2024-11-21 02:37:34.9636 Info Closing old configuration.
+2024-11-21 02:37:34.9843 Info Logger has been closed down.
+2024-11-21 02:38:12.6397 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-11-21 02:38:12.7574 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-11-21 02:38:12.7994 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=E:\eBooks\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-11-21 02:38:12.8472 Info Configuration initialized.
+2024-11-21 02:38:15.1592 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=E:\eBooks\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-11-21 02:38:38.5262 Info Shutdown() called. Logger closing...
+2024-11-21 02:38:38.5262 Info Closing old configuration.
+2024-11-21 02:38:38.5434 Info Logger has been closed down.
+2024-11-22 03:19:04.7741 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-11-22 03:19:04.8231 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-11-22 03:19:04.8441 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=E:\eBooks\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-11-22 03:19:04.8615 Info Configuration initialized.
+2024-11-22 03:19:06.2120 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=E:\eBooks\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-11-22 03:19:29.9768 Info Shutdown() called. Logger closing...
+2024-11-22 03:19:29.9768 Info Closing old configuration.
+2024-11-22 03:19:29.9858 Info Logger has been closed down.
+2024-11-22 03:24:38.2976 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-11-22 03:24:38.3499 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-11-22 03:24:38.4115 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=E:\eBooks\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-11-22 03:24:38.4451 Info Configuration initialized.
+2024-11-22 03:24:40.8359 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=E:\eBooks\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-11-22 03:25:15.4770 Info Shutdown() called. Logger closing...
+2024-11-22 03:25:15.4770 Info Closing old configuration.
+2024-11-22 03:25:15.4891 Info Logger has been closed down.
+2024-11-22 03:42:16.0600 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-11-22 03:42:16.1069 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-11-22 03:42:16.1607 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=E:\eBooks\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-11-22 03:42:16.1992 Info Configuration initialized.
+2024-11-22 03:42:18.8165 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=E:\eBooks\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-11-22 03:42:43.1581 Info Shutdown() called. Logger closing...
+2024-11-22 03:42:43.1581 Info Closing old configuration.
+2024-11-22 03:42:43.1743 Info Logger has been closed down.
+2024-11-22 03:53:21.3336 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-11-22 03:53:21.3868 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-11-22 03:53:21.4481 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=E:\eBooks\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-11-22 03:53:21.5437 Info Configuration initialized.
+2024-11-22 03:53:23.9772 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=E:\eBooks\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-11-22 03:53:47.4444 Info Shutdown() called. Logger closing...
+2024-11-22 03:53:47.4444 Info Closing old configuration.
+2024-11-22 03:53:47.4599 Info Logger has been closed down.
+2024-11-22 03:56:50.9875 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-11-22 03:56:51.0337 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-11-22 03:56:51.0790 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=E:\eBooks\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-11-22 03:56:51.1249 Info Configuration initialized.
+2024-11-22 03:56:54.0547 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=E:\eBooks\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-11-22 03:57:20.3968 Info Shutdown() called. Logger closing...
+2024-11-22 03:57:20.3968 Info Closing old configuration.
+2024-11-22 03:57:20.4232 Info Logger has been closed down.
+2024-11-22 03:59:22.8612 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-11-22 03:59:22.8932 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-11-22 03:59:22.9199 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=E:\eBooks\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-11-22 03:59:22.9487 Info Configuration initialized.
+2024-11-22 03:59:23.3180 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=E:\eBooks\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-11-22 03:59:23.3878 Info Shutdown() called. Logger closing...
+2024-11-22 03:59:23.3917 Info Closing old configuration.
+2024-11-22 03:59:23.4541 Info Logger has been closed down.
+2024-11-22 04:00:30.3440 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-11-22 04:00:30.3645 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-11-22 04:00:30.3847 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=E:\eBooks\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-11-22 04:00:30.3847 Info Configuration initialized.
+2024-11-22 04:00:30.8301 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=E:\eBooks\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-11-22 04:00:30.8872 Info Shutdown() called. Logger closing...
+2024-11-22 04:00:30.8872 Info Closing old configuration.
+2024-11-22 04:00:30.9257 Info Logger has been closed down.
+2024-11-22 04:01:05.8116 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-11-22 04:01:05.8594 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-11-22 04:01:05.9205 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=E:\eBooks\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-11-22 04:01:05.9805 Info Configuration initialized.
+2024-11-22 04:01:08.7923 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=E:\eBooks\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-11-22 04:01:38.0669 Info Shutdown() called. Logger closing...
+2024-11-22 04:01:38.0669 Info Closing old configuration.
+2024-11-22 04:01:38.0846 Info Logger has been closed down.
+2024-11-22 04:06:02.2361 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-11-22 04:06:02.2818 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-11-22 04:06:02.3273 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=E:\eBooks\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-11-22 04:06:02.3608 Info Configuration initialized.
+2024-11-22 04:06:04.5470 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=E:\eBooks\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-11-22 04:06:27.4644 Info Shutdown() called. Logger closing...
+2024-11-22 04:06:27.4644 Info Closing old configuration.
+2024-11-22 04:06:27.4821 Info Logger has been closed down.
+2024-11-22 04:08:48.1463 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-11-22 04:08:48.2537 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-11-22 04:08:48.3573 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=E:\eBooks\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-11-22 04:08:48.4145 Info Configuration initialized.
+2024-11-22 04:08:53.3469 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=E:\eBooks\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-11-22 04:09:28.1353 Info Shutdown() called. Logger closing...
+2024-11-22 04:09:28.1353 Info Closing old configuration.
+2024-11-22 04:09:28.1637 Info Logger has been closed down.
+2024-11-22 04:10:07.9242 Info Registered target NLog.Targets.Wrappers.AsyncTargetWrapper(Name=ownFile-web)
+2024-11-22 04:10:07.9735 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-11-22 04:10:08.0193 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=E:\eBooks\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-11-22 04:10:08.0567 Info Configuration initialized.
+2024-11-22 04:10:09.9118 Info Validating config: TargetNames=ownFile-web, ConfigItems=30, FilePath=E:\eBooks\eBooks\src\eBooks.Web\bin\Debug\net8.0\NLog.config
+2024-11-22 04:10:34.1035 Info Shutdown() called. Logger closing...
+2024-11-22 04:10:34.1035 Info Closing old configuration.
+2024-11-22 04:10:34.1230 Info Logger has been closed down.

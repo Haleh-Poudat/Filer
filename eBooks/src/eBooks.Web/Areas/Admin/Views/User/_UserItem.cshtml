@@ -1,0 +1,43 @@
+﻿@model UserViewModel
+
+<tr id="Row-@Model.Id" class="text-center radius6">
+    <td class="rowNo mr-3"></td>
+    <td>
+        @Model.Name
+    </td>
+    <td>@Model.Family</td>
+    <td>@Model.PhoneNumber</td>
+    <td>
+        @Model.UserName
+    </td>
+    <td>
+        <span class="ms-3">@Model.CreateDateTime.ToShortDateString()</span>
+        @if (IsAdmin())
+        {
+            <a class="fa  fa-edit ms-2 text-primary" href="#"
+               data-ajax="true"
+               data-ajax-url="@Url.Action("Edit", "User", new { area = "Admin", userName = @Model.UserName })"
+               data-ajax-metdod="Get"
+               data-ajax-failure="OnFailure(xhr)"
+               data-ajax-success="ShowModalOnSuccess(xhr,status,data,'modal-xl','EditUserForm')"></a>
+
+            @if (!Model.IsDelete)
+            {
+                <a class="fa fa-user-times text-danger m-2" href="#"
+                   data-ajax="true"
+                   data-ajax-metdod="POST"
+                   data-ajax-begin="confirmDeleteOrReactivate('@Model.Id','Are you sure you want to delete @Model.Name @Model.Family ?','/Admin/User/Delete','Delete','Row-@Model.Id')"
+                   data-ajax-failure="OnFailure(xhr)"></a>
+            }
+            else
+            {
+                <a class="fa fa-user-plus text-success m-2" href="#"
+                   data-ajax="true"
+                   data-ajax-metdod="POST"
+                   data-ajax-begin="confirmDeleteOrReactivate('@Model.Id','Are you sure about activating @Model.Name @Model.Family ?','/Admin/User/Reactivate','Activate','Row-@Model.Id')"
+                   data-ajax-failure="OnFailure(xhr)"></a>
+            }
+        }
+    </td>
+</tr>
+

@@ -1,0 +1,28 @@
+﻿@model RoleSearchViewModel
+
+<div class="card-body" id="AllRoles">
+    <table class="table table-sm table-hover table-bordered bg-light table-responsive  justify-content-around" width="100%">
+        <thead class="text-center text-white bg-dark-Blue">
+        <tr>
+            <th scope="col" class="col-2 text-center">Role Title</th>
+            @if (IsAdmin())
+            {
+                    <th scope="col" class="col-1 text-center">Number of Users</th>
+            }
+            <th scope="col" class="col-1 text-center">Operations</th>
+            <th scope="col" class="col-8 text-center">Role Permissions</th>
+        </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.RoleListViewModel)
+        {
+            <tr id="Row-@item.Id">
+                <partial name="_RoleItem" new model="@item" />
+            </tr>
+        }
+        </tbody>
+    </table>
+</div>
+<div id="showPagination">
+    <partial name="_Pagination" />
+</div>

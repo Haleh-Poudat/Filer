@@ -1,0 +1,59 @@
+﻿@model RoleViewModel
+
+<th class="text-center">
+    @Model.Name
+</th>
+
+@if (IsAdmin())
+{
+    <th class="text-center">
+        <a href="#" class="btn btn-lg btn-block btn-outline-success" style="height: 100%; width: 100%"
+           data-ajax="true"
+           data-ajax-method="GET"
+           data-ajax-url="@Url.Action("GetUserListByRoleIdAjax", "Role", new { area = "Admin", id = @Model.Id })"
+           data-ajax-failure="OnFailure(xhr)"
+           data-ajax-success="ShowModalOnSuccess(xhr,status,data,'modal-xl')">
+            @Model.UserCountInRole
+        </a>
+    </th>
+
+    <th class="text-center">
+        @if (Model.IsConstantData)
+        {
+            <i class="fa fa-exclamation-triangle fa-2x text-warning" aria-hidden="true"></i>
+            <p class="text-danger">Non-editable</p>
+        }
+        else
+        {
+            <a href="#" class="fa  fa-edit ms-2 fa-lg text-primary"
+               data-ajax="true"
+               data-ajax-url="@Url.Action("Edit", "Role", new { area = "Admin", id = Model.Id })"
+               data-ajax-method="GET"
+               data-ajax-failure="OnFailure(xhr)"
+               data-ajax-success="ShowModalOnSuccess(xhr,status,data,'modal-lg','EditRoleForm')">
+            </a>
+
+            <a onclick="confirmDeleteOrReactivate('@Model.Id','Are you sure you want to delete the Role @Model.Name?','/Admin/Role/Delete?id=@Model.Id','Delete')" href="#" class="fa fa-trash-o fa-lg text-danger m-2"></a>
+        }
+    </th>
+    <th>
+        <ul class="accordion" style="list-style-type: none;">
+            <li class="accordion-item">
+                <h2 class="accordion-header" style="list-style:outside none" id="panelsStayOpen-@Model.Id.ToString()">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panel-@Model.Id.ToString()" aria-expanded="false" aria-controls="panel">
+                        Display Role Permissions (<span class="text-danger" STYLE="font-weight:bold">@Model.Name</span>)
+                    </button>
+                </h2>
+                <div id="panel-@Model.Id.ToString()" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-@Model.Id.ToString()">
+                    <div class="accordion-body">
+                        <div class="row">
+                            <div class="text-center">
+                                <h6 class="text-danger pb-2">Permissions of the @Model.Name </h6>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </li>
+        </ul>
+    </th>
+}
